@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 273: El dólar Guybrush - Es bastante pelotuda la vida Edition</title>
+    <itunes:summary> ¡Ni las cotizaciones paralelas podrán salvarlos!¡Porque es Martes y SpreadShotNews Podcast ya llegó!        En este episodio:   Nico se reune con amigos en la vida real asi que Maxi rellena el vacío con Drakengard 3 y breves comentarios sobre Breath of the Wild.  En el Rapid Fire, hablamos sobre los precios en Pesos de steam, HTC, The Game Awards y mas.  Por supuesto que el Hot Coffee de esta semana se centra en la debacle de EA y Battlefront 2, donde intentamos desembrollar y ver como es que llegamos hasta aca.  Por ultimo, tenemos el Special Move con las recomendaciones de cada semana:  -Maxi nos recomienda el monologo de  John Oliver sobre la presidencia de Trump .  -Nico por su parte nos recomienda “ destripando la historia ”: leyendas, mitos, historias y demas hechos en formato cancion, cantadas por dos españoles. </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews273/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews273/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 20 Nov 2017 00:00:00 GMT</pubDate>
+    <itunes:duration>6365.41</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 272: Necesitamos un juego del Cid - Los plomeros nos rompieron todo Edition</title>
     <itunes:summary> ¡Ni El Campeador podrá salvarlos!¡Porque es Martes y SpreadShotNews ya esta aqui!        En este episodio:   Predominan los problemas tecnicos que a esta altura ya son cabala (?) pero fuera de eso seguimos hablando de lo mismo: Mas Mario Odyssey, mas Captain Toad y mas Destiny 2.  En el Rapid-Fire, varias noticias importantes esta semana con Intel, AMD, Microsoft y EA, entre otros.  La Main Quest, esta patrocinada por Facundo Fernandez, quien nos dejo  este video  sobre Assassin’s Creed Origins y su potencial valor educativo.  Por ultimo, como todas las semanas, el Special Move con las recomendaciones:  -Maxi recomienda  NHK World Radio Japan - Easy Japanese , un podcast dedicado a dar los primeros pasos en el idioma japones. ( feed en español  /  feed en ingles )  -Nico nos recomienda  characterdesignreferences.com , un lugar donde artistas copados hacen cosas copadas al por mayor. </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1701,14 +1709,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1716,6 +1716,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
