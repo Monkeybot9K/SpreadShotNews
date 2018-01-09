@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 280: No era un 0 a la izquierda pero ponele que era un ,5 a la derecha</title>
+    <itunes:summary> Ni el orden de los factores que altera el producto podra salvarlos! ¡Porque es martes y SpreadShotNewsPodcast ya llego!    En este episodio:   Nico vuelve a viejas glorias con el Age of Empires 2 HD, mientras Maxi nos cuenta sobre Hidden Folks, mas Battlechasers: Nightwar y sus pensamientos finales sobre Xenoblade Chronicles 2.  Vuelve el Rapid-Fire con “las sobras de 2017″ y algunas noticias que arrancaron este 2018.  Por ultimo cerramos como siempre con el Special Move:  -Maxi nos recomienda el comic de Joe Madureira, Battlechasers.  -Nico nos deja un video explicando como la  Star Wars original fue salvada en la isla de edicion , y tambien recomienda  Cafe Fandango , un hermoso podcast.  Por ultimo, las recomendaciones de Martin Blazquez:    What Thursday’s FCC Vote Means for Gaming    Solutions to Fix the Game Industry  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews280/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews280/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>7157.58</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 279: Super Especial “feliz año nuevo vamos los pibes”</title>
     <itunes:summary> ¡Ni el avance calendarico podra salvarlos!¡Porque hoy es martes y SpreadShotNews Podcast ya esta aqui!        En este episodio:   Le damos la bienvenida al 2018 con mas Assassin’s Creed: Origins, la vuelta del Diablo III, Battlechasers: Nightwar y Xenoblade Chronicles 2.  La primera Main Quest de 2018 esta dedicada a nuestras predicciones de 2017 y que tanto la pifiamos, nuestras predicciones para 2018 y los juegos mas esperados de este año.  Por ultimo, como siempre el special move con las siguientes recomendaciones:  -Maxi nos deja un nuevo documental de  Noclip: The Making of Horizon Zero Dawn   -Ambos recomiendan las discusiones de juego del año de  Giantbomb.com   -Nico nos recomienda  “Tellurion Project” de Matt Rhodes . </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1757,14 +1765,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1772,6 +1772,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
