@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 283: 2 gramos de cerebro y 2 gramos de infancia, 4 gramos de SpreadShotNews</title>
+    <itunes:summary> ¡Ni los calculos matematicos podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!    En este episodio:   Mas Battlechasers: Nightwar de parte de Maxi, acercandose cada vez mas al final y rescatando del tacho de juegos colgados vuelve el Ori and the Blind Forest: Definitive Edition. Nico por su lado, continúa Assassin’s Creed: Origins y vuelve al Vanquish a matar robots rusos en el espacio.  En el Rapid Fire tenemos noticias sobre Square Enix, Xbox, PlayStation, EA y mas, sumado a la vuelta de #ESPECULANDIA.  Para la Main Quest, hablamos sobre un articulo que nos recomendo Marce Orosa que habla sobre “donde van a parar los juegos digitales cuando son delistados”.  Por ultimo, el special move, esta vez “auspisicado” por Netflix:  Maxi nos recomienda la primer pelicula animada de Godzilla:  Godzilla Planet of Monsters .  Nico por su lado nos recomienda  Devilman Crybaby , con lo que se vuelve un endorsment oficial de SpreadShotNews Podcast.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews288/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews288/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>9757.6</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 282: Tengo un pollo en la garganta, permiso - Feliz cumple Matsi Edition</title>
     <itunes:summary> ¡Ni un accidente aviario podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!       En este episodio:  Maxi continua su travesia en Battlechasers: Nightwar, mientras que Nico visita a Goku y sus amigos en la beta del Dragon Ball Fighter Z.  En el rapid-fire tenemos confirmaciones de rumores, las famosas y tan conocidas fuentes anonimas reportando variadas cosas y la dosis de Nintendo siendo Nintendo.  Para la Main Quest, charlamos un rato sobre el “sindrome del acumulador” en los videojuegos y de que forma se podria solucionar.  Como siempre, para el final queda el special move con las siguientes recomendaciones:  Maxi nos deja el video que es garantizado le va a volar la peluca por lo menos a uno de ustedes:  Como funcionan las TVs en SUPER slow motion .  Nico por su parte nos recomienda el manga de Dragon Ball Super, especificamente, dado que le hizo acordar mas a la obra original de Toriyama.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2     </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1789,14 +1797,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1804,6 +1804,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
