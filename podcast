@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 288: Empezás a jugar a ser Dios - Todas las madres patrias Edition</title>
+    <itunes:summary> ¡Ni asumir el rol de divinidad podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!        En este episodio:   Damos comienzo a la miniserie de episodios de nuestro universo de bolsillo, con Maxi retomando el Hitman e intentando jugar el ultimo DLC de Dark Souls 3.  En la Main Quest recurrimos a ustedes hace casi 2 meses para una bateria de preguntas que fueron respondidas con diversos grados de extension a lo largo del capitulo. Muchas gracias a todos los que se animaron y se coparon en dejar preguntas y esperamos que lo sigan haciendo a traves del  google forms .  Para la pregunta sobre material de lectura ( 1:11:53 ) dejamos los links correspondientes para todo el que le interese.  Gamasutra.com  Anatomy Of Games:  https://www.anatomyofgames.com/anatomy-of-a-game/   Game Maker's Toolkit:  https://www.youtube.com/user/McBacon1337   Dev's Play:  https://www.youtube.com/watch?v=kILeyo1iv0A&amp;index=2&amp;list=PLIhLvue17Sd6u2akeZZdYVBxNtfWZPm5W   https://www.youtube.com/watch?v=HrPBCh-xDsQ&amp;list=PLIhLvue17Sd5E75N5z8hK0-X7LXgGsJA5    Masters of Doom  (Libro): https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155/  From the Vault:  https://irrationalgames.ghoststorygames.com/insider/from-the-vault/   GDC Vault (charlas, deconstrucciones, postmortem, etc)  https://www.gdcvault.com/   Extra Credits (contenido general de gaming academico)  https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg   Iwata Asks (entrevistas)  http://iwataasks.nintendo.com/   Noclip youtube Channel (video documentales)  https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw   Homo Ludens de Johan Huizinga  https://www.goodreads.com/book/show/233221.Homo_Ludens   El heroe de las mil caras de Joseph Campbell  Por ultimo, como siempre, el Special Move con las recomendaciones.  -Maxi nos recomienda que vayan a ver Mazinger Z: Infinity al cine (lamentablemente se retraso hasta abril, pero la recomendacion todavia cuenta!)  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews288_201803/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews288_201803/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 05 Mar 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>9757.6</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 287: Monster Huntercast - Episodio 01</title>
     <itunes:summary> ¡Ni el sabotaje de un podcast interno podrá detenernos!¡Porque es martes y SpreadShotNewsPodcast ya llegó!    En este episodio:   En un arranque de hype Maxi se compra Monster Hunter World, Nico le hace la segunda y asi nace el “Monster Huntercast”, un podcast dentro de otro podcast dedicado a festejar la matanza indiscriminada de bichos.  En el Rapid-Fire contamos con noticias varias de EA, Bandai Namco, Nintendo, Ubisoft y mas.  Dado que tuvimos una muy extensa apertura contestando varios de sus comentarios, decidimos abstener la Main Quest de esta semana.  Por ultimo, como todas las semanas, el Special Move con las siguientes recomendaciones:  -Maxi, absolutamente poseido por el Monster Hunter, nos deja su  “Honest Trailer” .  -Nico por su parte, nos recomienda el album  Super Metroid Resyinthesized .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1829,14 +1837,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1844,6 +1844,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
