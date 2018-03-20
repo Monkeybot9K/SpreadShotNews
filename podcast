@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 290: Salva este edificio o patea esta caja de perritos recien nacidos - Hipo Temporal Edition</title>
+    <itunes:summary> ¡Ni las opciones mas diametralmente opuestas podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llego!    En este episodio:   Maxi continua a puro Suikoden pasandola muy bien, mientras Nico nos sorprende viajando hacia las estrellas y rejugando el primer Mass Effect.  Para la Main Quest, recurrimos una vez mas al google forms para tomar 3 preguntas que comparten varias areas comunes y nos dedicamos a contestarlas en profundidad.  Por ultimo, en el Special Move Nico nos recomienda  soon.games , un proyecto creado por su amigo Bruno Lazzaro.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews290/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews290/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 19 Mar 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>8335.37</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 289: La runa maldecida… ¿maldicha? maldita</title>
     <itunes:summary> ¡Ni las runas impronunciables podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!    En este episodio:   Maxi continua sacando el barco del Now Loading a flote con mas Hitman y una sorpresa inesperada, el Suikoden.  En la Main Quest nos metemos de lleno en un tema que hemos tocado tangencialmente en varias ocasiones: el costo de los juegos y un interesante desgloce de informacion acerca de estos.  Para finalizar, como siempre, el Special Move con las recomendaciones semanales:  Maxi nos recomienda los videos de Maximilian Dood jugando Monster Hunter World (Partes  1 ,  2 ,  3 ,  4  y  5 )  Nico nos deja unos videos ( 1  y  2 ) sobre spam y sus hilarantes respuestas si uno se engancha con ellos.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1845,14 +1853,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1860,6 +1860,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
