@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 292: Europa, nuestra luna favorita después de Titán - Uno puede ser un imbécil a veces, Edition</title>
+    <itunes:summary> ¡Ni los cuerpos celestes de los gigantes gaseosos podran detenernos!¡Porque es martes y SpreadShotNews ya esta aqui!        En este episodio:   Volvemos al continuum normal y Nico nos cuenta sobre Dragon Quest Builders y Flinthook mientras viajaba por las Europas, mientras Maxi se despacha con un poco mas de Monster Hunter World.  Como avisamos previo a la atemporalidad, esta semana no habrá Main Quest, debido a que tenemos un muy extenso Rapid Fire con las noticias de todo marzo que mas nos llamaron la atencion.  Acto Seguido, el Special Move con las siguientes recomendaciones:  Autobombo rapido:  Playlist en youtube de “Lo que sobra de SpreadShotNews” .  Ademas, Maxi nos recomienda el ultimo video musical de BLR,  It’s not a Moon .  Nico debido al reciente recambio de emergencia de su mouse, recomienda el Logitech G502.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews292/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews292/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 02 Apr 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>10993.25</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 291: Gandalf versión minita - Temporada de atemporalismo Edition</title>
     <itunes:summary> ¡Ni la regla 63 podrá salvarlos!¡Porque es martes y SpreadShotNews Podast ya llego!        En este episodio:   Maxi termina el Suikoden y nos cuenta sus impresiones finales, mientras Nico se prepara para su viaje contandonos que onda el Dragon Quest Builders.  La Main Quest de hoy esta patrocinada por Neko Bacchiani que nos dejo una carta abierta de la comunidad de desarrollo de las herramientas de emulacion libretro y lo que eso significa para el futuro de la industria de la emulacion.  Para finalizar, en el Special Move ambos recomiendan el mas reciente podcast de giantbomb,  All Systems Goku , donde Jeff y Dan, absolutos neofitos del anime, ven por primera vez Dragon Ball Kai.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1861,14 +1869,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1876,6 +1876,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
