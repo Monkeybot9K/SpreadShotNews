@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 296: Una gran cosa negra en frente de tu ser - Virtua Cop bajo el agua Edition</title>
+    <itunes:summary> ¡Ni la oscuridad mas oscura podra detenernos!¡Porque es martes y SpreadShotNews Podcast ya llego!        En este episodio:   Maxi nos cuenta sus primeras impresiones de Yakuza 6, mientras Nico decide ayudar a la expansion constante de su backlog rejugando Sleeping Dogs.  En el Rapid Fire, hablamos sobre Valve, Nintendo, SEGA y mas.  Para la Main Quest, contestamos la pregunta que nos hicimos tangencialmente hace unas semanas: Que es el GDPR? Les dejamos los articulos de referencia por si los quieren consultar.   What does GDPR Do?    What does GDPR mean for digital entertainment business?    GDPR: Frequently Asked Questions   Para finalizar, como siempre tenemos el Special Move, donde Maxi nos recomienda la  entrevista de giantbomb a Cory Barlog, director de God of War . Nico tambien hace uso de giantbomb para su recomendacion, con  2 videos  sobre  Nintendo Labo .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews296/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews296/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>6390.79</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 295: Jugás con Achoo, el negro de Robin Hood - Downlowering Edition</title>
     <itunes:summary> ¡Ni figuras legendarias podran detenernos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!        En este episodio:   Maxi nos cuenta la triste historia de su save en el Suikoden II, pero sigue disfrutando de Kirby Star Allies. Nico por su parte vuelve a Overwatch porque eventos, y nos sorprende con Double Dragon.  En el Rapid-Fire hoy tenemos noticias sobre Tencent, Valve, Waverace y PlatinumGames.  Para nuestro Hot Coffee, volvemos al tema lootboxes dado que Holanda declaro que determinados juegos cuentan con practicas que violan sus politicas de apuestas.  Para finalizar, en el Special Move Maxi nos recomienda la  wiki de Monster Hunter World , mientras que Nico nos recomienda la  segunda campaña de Critical Role .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1893,14 +1901,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1908,6 +1908,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
