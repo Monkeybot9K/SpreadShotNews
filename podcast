@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 298: Un torbellino de muerte y destrucción</title>
+    <itunes:summary> ¡Ni los desastres naturales podran salvarlos!¡Porque es martes y SpreadShotNews una vez mas esta aqui!        En este episodio:   Maxi retoma juegos, como el Kirby Star Allies y el Damascus Gear Operation Tokyo HD, mientras Nico sigue a puro Sleeping Dogs.  En el Rapid-Fire, tenemos noticias sobre Nintendo, CAPCOM, y Walmart enloqueciendo.  Para la Main Quest tenemos una pregunta de Gaston Berezagá sobre los origenes de la E3 y la razones detras de su evolucion.  Para finalizar, tenemos el Special Move Maxi nos recomienda el manga de Mob Psycho 100, del mismo creador de One-Punch Man. Nico nos recomienda el arte de  Hitoshi Yaneda, artista de Phantasy Star .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2     </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews298/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews298/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>6693.28</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 297: La mina que toma decisiones innecesarias con su cuerpo - Atletas Ciberneticos Edition</title>
     <itunes:summary> ¡Ni las peores decisiones corporales podran detenernos!¡Porque es martes y ya llega SpreadShotNews Podcast!        En este episodio:   Maxi nos cuenta sus pensamientos finales de Yakuza 6, mientras Nico continua a pura trompada por Hong Kong en Sleeping Dogs y decide probar Rise of the Tomb Raider.  En el Rapid Fire tenemos como es usual una variedad de noticias que incluyen a Nintendo, Valve, Sony y mas.  Para el Hot Coffee, analizamos el proyecto de ley nacional sobre los deportes electronicos y como podria impactar a la incipiente escena local, con sus ventajas y desventajas.  Para finalizar, el Special Move con las recomendaciones de siempre. En esta oportunidad Maxi nos recomienda el  postmortem de Nier: Automata  de la GDC 2018, mientras que Nico nos deja  Github pages , una interesante herramienta de manejo web para todos los que precisen.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2       </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1909,14 +1917,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1924,6 +1924,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
