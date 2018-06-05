@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 301: El fuego azul quema mas que el rojo - Yo quiero tener un millón de amigos Edition</title>
+    <itunes:summary> ¡Ni la graduación calórica podra detenernos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!        En este episodio:   Maxi sigue con Dragon’s Crown Pro, intentando liquidarlo del todo, mientras vuelve al Monster Hunter World (del cual realmente nunca se fue). Nico por su parte, continua dandole al State of Decay 2, se compra una PS4 Pro porque aguinaldo y arranca el God of War (2018) y por ultimo la vida lo lleva a comprarse el Metroid: Zero Mission.  Para el Rapid-Fire tenemos noticias pre-E3 con Nintendo, Bethesda y Walmart, adquisiciones de parte de EA y un anuncio sorpresa de NIS.  En la Main Quest, tomamos algunas preguntas de nuestra google forms para contestarle a Martin Blazquez, Lukitas Varetta y Nico (Nexz).  Referencias para la pregunta de Martin Blazquez: - Tutorial de Pixelart . - Return of the Obra Dinn by Lucas Pope .  Finalmente, tenemos el Special Move, como todas las semanas donde Maxi nos recomienda el podcast  Business Wars , mientras Nico nos recomienda el canal de youtube  Dark Pixel Gaming .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2       </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews301/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews301/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Sun, 03 Jun 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>7891.65</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 300: EPISODIO CCC - Le falta la P nomas - Sobredosis de Crossovers</title>
     <itunes:summary> ¡Ni la potencial Madre Rusia podrá salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!       ¡Bienvenidos al episodio 300! Muchas gracias a todos por acompañarnos hasta aca y esperamos que lo sigan haciendo.   En este episodio:   Contamos con la presencia especial de los integrantes de Cafe Fandango: Gus, Edu y Seba. Hablamos de Into the breach, Minerva’s Den, Virtue’s Last Reward, Fable Anniversary, The Witness y Rime.  Para nuestra quinta edicion de Knights of the Round,  hablamos sobre los juegos sistemicos  y la  “fornulizacion” de los videojuegos .  Dado que tenemos dos invitados primerizos, la triforce se manifiesta dandonos la oportunidad de ver cuales son los 3 juegos que Edu y Gus dicen que hay que jugar.  Finalmente en el Special Move tenemos las recomendaciones pertinentes con Gustavo que nos recomienda un playthrough de Pokemon red/blue solo con Ditto, Edu nos recomienda los stand up de Tim Minchin y Seba nos recomienda el juego mobile Balls Bounce y el artista  Dan Mumford . Nico por su parte nos recomienda The Warriors, tanto la pelicula, como el soundtrack como tambien el videojuegos y por ultimo Maxi recomienda la ultima pelicula animada de DC, Batman Ninja.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1933,14 +1941,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1948,6 +1948,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
