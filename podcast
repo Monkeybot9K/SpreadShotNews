@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 302: Si jugás Pokémon Go, jugate ésta - The power of the cloud compels you Edition</title>
+    <itunes:summary> ¡Ni los innuendos sexuales con monstruos de bolsillo podran detenernos!¡Porque es martes y llega SpreadShotNews Podcast!        En este episodio:   Maxi arranca el Ni no Kuni 2, ademas de probar la demo de Project Wingman. Nico por su parte, continua a puro God of War.  En el Rapid-Fire, tenemos algunas de las cosas que se continuaron filtrando previo a las conferencias y anuncios de la E3 2018, lo que abre paso a nuestras predicciones para esta E3 2018 en la Main Quest.  Para cerrar, como siempre tenemos el Special Move con las recomendaciones. Maxi nos recomienda un video de Uncanny X-Clan: “ 10 Video game songs that sound oddly familiar ”. Nico por su parte nos recomienda la banda de un amigo,  Toni Leys, en Spotify .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews302/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews302/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 11 Jun 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>9719.7</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 301: El fuego azul quema mas que el rojo - Yo quiero tener un millón de amigos Edition</title>
     <itunes:summary> ¡Ni la graduación calórica podra detenernos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!        En este episodio:   Maxi sigue con Dragon’s Crown Pro, intentando liquidarlo del todo, mientras vuelve al Monster Hunter World (del cual realmente nunca se fue). Nico por su parte, continua dandole al State of Decay 2, se compra una PS4 Pro porque aguinaldo y arranca el God of War (2018) y por ultimo la vida lo lleva a comprarse el Metroid: Zero Mission.  Para el Rapid-Fire tenemos noticias pre-E3 con Nintendo, Bethesda y Walmart, adquisiciones de parte de EA y un anuncio sorpresa de NIS.  En la Main Quest, tomamos algunas preguntas de nuestra google forms para contestarle a Martin Blazquez, Lukitas Varetta y Nico (Nexz).  Referencias para la pregunta de Martin Blazquez: - Tutorial de Pixelart . - Return of the Obra Dinn by Lucas Pope .  Finalmente, tenemos el Special Move, como todas las semanas donde Maxi nos recomienda el podcast  Business Wars , mientras Nico nos recomienda el canal de youtube  Dark Pixel Gaming .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2       </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1941,14 +1949,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -1956,6 +1956,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
