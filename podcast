@@ -14,14 +14,22 @@
         <description>Podcast donde hablaremos de lo que hay, lo que hubo y lo que se viene en el mundo de los juegos, previews, reviews, opinión, noticias, invitados y más!</description>
         <itunes:owner>
           <itunes:name>SpreadShotNews</itunes:name>
-          <itunes:email>contact@spreadshotnews.com</itunes:email>
+          <itunes:email>spreadshotnews@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:image href="http://spreadshotnews.com/assets/SSN_1400.jpg" />
         <itunes:category text="Games &amp; Hobbies">
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
-    <title>SpreadShotNews 308: Allá no se preocupan por la inflación - Ondas Wi-fiicas Edition</title>
+    <title>SpreadShotNews Podcast 309: GOG of Future Past</title>
+    <itunes:summary> ¡Ni los futuros alternativos podran salvarlos!¡Porque es Martes y SpreadShotNews Podcast ya llegó!        En este episodio:   Maxi continua batallando en Mario Tennis Aces y puede por fin saber de que se trata este famoso Grey Goo. Nico por su parte, se envicia con el podcast Watch Out for Fireballs y reinicia el Crimson Shroud.  En el Rapid-Fire de esta semana, hay noticias sobre Valve, DragonBall FighterZ y mas. Tambien hace su debut #ESPECULANDA, el hermano gemelo de Especulandia, que lo cubre cuando no se siente bien.  Para la Main Quest, charlamos sobre un articulo de Super Data, el cual infiere que Fortnite potencialmente podria estar haciendo mas daño economico a la industria de lo que parece.  Para finalizar, en el Special Move, Nico nos recomienda el nuevo documental de noclip llamado:  GOG - Preserving Gaming’s Past &amp; Future , mientras que Maxi nos recomienda  Cooking With Jeff Goldblum (una joya absoluta)  y el video del  30º aniversario de Arc System Works , que demuestra, de una forma poco ortodoxa lo dificil que es hacer videojuegos.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2       </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews309/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews309/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 30 Jul 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>6480.32</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 308: Allá no se preocupan por la inflación - Ondas Wi-fiicas Edition</title>
     <itunes:summary> ¡Ni la displicencia por la economia podra ayudarlos!¡Porque es martes y SpreadShotNews Podcast ya llegó!        En este episodio:   Nico continua su viaje por el Fallout 4, y ademas nos cuenta sus primeras impresiones del ultimo Prey. Maxi por su parte, termina Bayonetta 2 y Velocity 2X, para dar paso a Mario Tennis Aces y Grey Goo.  En el Rapid-Fire contamos con pocas noticias, pero se destacan el fallo de la corte alemana y la demanda de Nintendo.  Para la Main Quest, volvemos a nuestro formularo de google forms para rescatar tres preguntas realizadas por Lucas Mendieta del Matto y Lucas Saurin.  Para finalizar, como todas las semanas, tenemos el Special Move con Maxi recomendandonos un video de Rob Scallon intentando reproducir los efectos de delay y reverb naturalmente, y Nico nos recomienda el  ultimo episodio de Radio Saigon , la continuacion de la muestra de videojuegos en el Centro Cultural de La Ciencia en Godoy Cruz al 2270 y el  ultimo episodio de Cafe Fandango , donde se autoinvitaron con  Neko Bacchiani de esPONJA .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
     <enclosure url="https://archive.org/download/SpreadShotNews308/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
@@ -1997,14 +2005,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2012,6 +2012,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
