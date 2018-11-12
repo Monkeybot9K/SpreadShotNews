@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 324: La persona mas importante del dia de hoy, que claramente es el Aire Acondicionado - Garomping Wisdom Edition</title>
+    <itunes:summary> ¡Ni los frescos vientos aritificiales podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llegó!    En este episodio:   Maxi nos sigue contando sus andanzas por Thronebreaker: The Witcher Tales, mientras Nico continua a puro Cowboys con Red Dead Redemption 2.  En el Rapid-Fire charlamos sobre Tencent, PUBG, Path of Exile, Final Fantasy XV y su DLC, la PlayStation Classic y The Game Awards.  Para la Main Quest, tenemos la primera parte de una nota en  Gamesindustry.biz donde comenta las salvedades y pormenores de lo que implica publicar un juego.  Para finalizar, como (casi) siempre el Special Move con las recomendaciones. Maxi nos recomienda un manga,   Devilman Vs. Hades , Nico nos recomienda un videoclip muy bien animado llamado  “Mr. Fear”  de SIAMÉS.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews324/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews324/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 12 Nov 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>6662</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 323: Tu cuerpo se está preparando para saltar a la pantalla y tirarla a la mierda - Sandeces gráficas Edition</title>
     <itunes:summary> ¡Ni las reacciones primordiales podran salvarlos!¡Porque es Martes y SpreadShotNewsPodcast ya llego!        En este episodio:   Maxi finalmente termina Valkyria Chronicles 4, prueba la demo de Tetris Effect y arranca Thronebreaker: The Witcher Tales. Nico por su parte nos cuenta que onda Red Dead Redemption 2.  En el Rapid Fire tenemos noticias sobre la PlayStation Classic, una buena noticia para indies que quieran usar Voice Actors profesionales, Sunset Overdrive llegando a PC, la Nintendo Direct de Super Smash Bros. Ultimate y los anuncios mas importantes de la BlizzCon 2018.  Para el Hot Coffee charlamos un poco sobre el reciente anuncio de Project Atlas, la plataforma de EA para desarrollar juegos integramente en la nube, y sus implicancias.  Esta semana no hay Special Move, pero bueno, en 323 semanas, alguna vez iba a suceder.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2117,14 +2125,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2132,6 +2132,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
