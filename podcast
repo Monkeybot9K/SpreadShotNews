@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 326: En caso de no encontrar el grillo, dinamitaré la casa</title>
+    <itunes:summary> ¡Ni la pirotecnia masiva podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!        En este episodio:   Maxi continua divagando por los desiertos post apocalipticos de Fist of the North Star: Lost Paradise, pero se toma un recreo para irse de viaje lisergico en Tetris Effect. Nico por su parte, hypea con el Hitman 2 (pero no, pero si) ademas de continuar a puro caballito por el mas salvaje de los oestes en Red Dead Redemption 2.  Para el Rapid Fire, logramos rescatar algunas noticias de dentro de la voragine de ofertas del Black Friday como los ultimos detalles sobre The Walking Dead, Valve descontinuando cosas, Twitch dejando de vender otras y un sentimiento preocupante crece dentro de Blizzard.  En la Main Quest, nos dedicamos a charlar sobre la segunda parte de los articulos publicados por  GamesIndustry.biz  sobre la publicacion y distribucion de videojuegos.  Para finalizar, en el Special Move, Maxi finalmente ve la segunda pelicula animada de  Godzilla de Netflix .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews326/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews326/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 26 Nov 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>7836.35</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 325: Hokuto Shinken: Tocarle puntos clave a la gente para que explote</title>
     <itunes:summary> ¡Ni las artes marciales mas mortales podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llegó!        En este programa:   Maxi termina Thronebreaker y nos cuenta que le parecio al final y arranca Fist of the North Star: Lost Paradise de la mano de Kenshiro reventando gente por ahi, mientras Nico sigue a puro western en Red Dead Redemption 2.  Para el Rapid-Fire, tenemos noticias sobre Sony, mas compras de THQ Nordic, Command &amp; Conquer, Telltale y el XO18.  En el Hot Coffee charlamos un rato sobre Sony, su ausencia de la E3 2019, que puede representar y cual es nuestra sensacion al respecto de su futuro.  Para finalizar, en el Special Move, Maxi nos recomienda el video documental de Queen:  Making of One Vision in Studio .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2133,14 +2141,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2148,6 +2148,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
