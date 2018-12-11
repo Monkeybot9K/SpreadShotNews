@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 328: Ese tiene pinta de ser un buen juego que me chupa un huevo</title>
+    <itunes:summary> ¡Ni la apreciacion academica del entretenimiento electronico podra ayudarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!        En este episodio:   Nico comienza su etapa de jugar a la vida: Fin de año Edition, mientras Maxi nos pasea por el mundo de los asesinatos del Hitman 2.  En el Rapid-Fire, tenemos noticias sobre THQ Nordic y su aparentemente infinita billetera, NVIDIA y su repentina bondad, Epic Games plantandose ante Valve y Counter Strike: Global Offensive despidiendo con un aplauso al PUBG.  En nuestra Main Quest, como ya es costumbre, repasamos los anuncios de The Game Awards 2018 con todos los World Premieres que nos dejo el show de Mr Doritos™.  Para finalizar, en el Special Move, Maxi sigue con su cruzada por la lectura en el baño y ahora nos recomienda Captain Harlock de Leji Matsumoto. Nico por su parte (via Francisco Sarmiento) nos recomienda “Making of” un canal de youtube con varios making of, en este caso de  A Night at the Opera , y tambien que escuchen el ultimo cafe fandango donde estuvo de invitado.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews328/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews328/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 10 Dec 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>6853.77</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 327: Gente que mata gente - Pasaron Cosas Edition</title>
     <itunes:summary> ¡Ni los asesinatos entre personas podran detenernos!¡Porque es Martes y SpreadShotNews Podcast ya llego!        En este episodio:   Maxi nos da sus pensamientos finales sobre Fist of the North Star: Lost Paradise, Nico continúa en el oeste con Red Dead Redemption 2. Ademas, ambos matan gente en Hitman 2.  En el Rapid-Fire charlamos sobre Nintendo y Microsoft, Fallout 76, #NeverEndingStory y Valve.  En la Main Quest, debatimos sobre un articulo de  Gamasutra  que nos ofrece un futuro bastante desolador de la industria de videojuegos.  Para finalizar, en el Special Move, Maxi nos recomienda el documental de Netflix de Lady Gaga,  Gaga: Five Foot Two .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2149,14 +2157,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2164,6 +2164,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
