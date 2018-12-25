@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 330: La milanesa paramétrica - Superpinzas Edition</title>
+    <itunes:summary> ¡Ni las carnes empanadas determinantes de referencia podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!        En este episodio:   Maxi prueba la demo de Devil May Cry 5 y nos cuenta sus impresiones, ademas de seguir disfrutando de Dragon Quest XI, mientras Nico nos cuenta todo lo que pasa en Super Smash Bros Ultimate.  En la Main Quest, llegamos al primero de los episodios especiales de fin de año. En este caso nos dedicamos a revisar el año 2018 y repasar las cosas mas importantes que sucedieron en una retrospectiva.  Para finalizar, en el Special Move, Maxi nos regala un  hermoso cuento navideño con Solid y Liquid Snake . Nico por su parte nos recomienda la  historia de Punch-out!  contada por Gaming Historian.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews330/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews330/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 24 Dec 2018 00:00:00 GMT</pubDate>
+    <itunes:duration>11059.73</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 329: Postnóstico - Un saludo a la manzana galactica Edition</title>
     <itunes:summary> ¡Ni la apreciacion tardia de la meteorologia podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llego!        En este episodio:   Nico nos lleva al mundo de Super Smash Bros. Ultimate, mientras Maxi recorre todas las checkboxes de un JRPG en Dragon Quest XI, para finalizar ambos hablando de Hitman 2 (2018).  En el Rapid Fire, hablamos sobre la movida de Epic, Nier: Automata y John Romero festejando aniversarios con anuncios, SEGA anuncando remakes, CAPCOM y Monster Hunter World, Discord calentando la incipiente guerra de precios de los storefronts, Blizzard y su segundo strike frente a su comunidad y SEGA anuncia Judgment para occidente.  En la Main Quest, respondemos algunas (o una) preguntas que nos dejaron en el google forms.  Para finalizar, en el Special Move, Nico nos recomienda  Unraveled de Polygon .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2165,14 +2173,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2180,6 +2180,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
