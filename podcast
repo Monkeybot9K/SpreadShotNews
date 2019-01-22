@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 334: La edad de Megacristo mas uno - Siempre camina uno y estan todos adentro Edition</title>
+    <itunes:summary> ¡Ni la edad de una deidad podrá salvarlos!¡Porque es martes y SpreadShotNewsPodcast!        En este episodio:   Maxi nos cuenta que le parecio la demo de la remake de Resident Evil 2 y nos cuenta un poco mas sobre el Tales of Vesperia: Definitive Edition. Nico por su parte continua viajando por el mundo de Dragon Quest XI.  En el Rapid-Fire comentamos las noticias sobre Dragon Ball, Star Wars, Rocket League, la Switch y el Mortal Kombat 11.  Para la Main Quest, analizamos un poco el documento de SuperData sobre el resumen de 2018 en numeros e intentamos sacar algunas conclusiones al respecto.  Para finalizar, en el Special Move, Maxi nos recomienda 8-bit music theory, en particular  Iconic Opening Intervals . Nico por su parte nos recomienda el canal de  Loulogio .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews334/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews334/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 21 Jan 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>7546.4</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 333: Cuando uno come bizcochitos se distrae un poco</title>
     <itunes:summary> ¡Ni la ingesta de pequeños bocados a base de grasa podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!        En este episodio:   Maxi juega a ver un monton de gente jugar a pasar los juegos lo mas rapido posible, pero ademas se permite arrancar el Tales of Vesperia: Definitive Edition y retomar su “camino del chino magico” en el Monster Hunter World. Nico por su parte nos cuenta que onda el Return of the Obra Dinn y arranca su viaje japon en Dragon Quest XI.  Hoy tenemos un Rapid-Fire extra large, con varias de las cosas que sucedieron en estas ultimas 3 semanas, arrancando por la vuelta de Erik Wolpaw a Valve, el hallazgo de la Video Game History Foundation, los cambios de una ley en Japon, el futuro de Nexon y mas.  Para finalizar, como todas las semanas, tenemos en Special Move con las recomendaciones de siempre.  Maxi nos trae musica con el Nier Orchestral Arrangement Album, mientras Nico recomienda dos podcasts:  Sawbones (con Justin y Sidney McElroy)  y el podcast de  Noclip (con Danny O’Dwyer) .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2197,14 +2205,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2212,6 +2212,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
