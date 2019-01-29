@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 335: 2019, el año del Cloud Computing - Es una romería mi party Edition</title>
+    <itunes:summary> ¡Ni los calculos binarios remotos podrán ayudarlos!¡Porque es martes y SpreadShotNews ya llegó!        En este episodio:   Nico juega a leer tutoriales para la Global Game Jam, mientras Maxi continua con el Tales of Vesperia: Definitive Edition y se va a volar por los cielos en el Ace Combat 7: Skies Unknown.  En el Rapid-Fire tenemos noticias sobre Mortal Kombat 11, Trials Rising, Halo: The Master Chief Collection y mas.  Para el Hot Coffee, charlamos un poco sobre sobre una encuesta realizada por los organizadores de la GDC sobre si Valve se esta ganando el derecho de cobrar el 30% de cada venta en su store.  Para finalizar, en el Special Move, Maxi nos recomienda una  entrevista a Toshihiro Nagoshi (el padre de los Yakuza, entre otras cosas) por su 30 aniversario en SEGA . Nico por su lado nos recomienda  el recital de Frank Klepacki and the Tiberian Sons  que dieron en MAGFest 2019.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews335/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews335/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 28 Jan 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>7706.51</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 334: La edad de Megacristo mas uno - Siempre camina uno y estan todos adentro Edition</title>
     <itunes:summary> ¡Ni la edad de una deidad podrá salvarlos!¡Porque es martes y SpreadShotNewsPodcast!        En este episodio:   Maxi nos cuenta que le parecio la demo de la remake de Resident Evil 2 y nos cuenta un poco mas sobre el Tales of Vesperia: Definitive Edition. Nico por su parte continua viajando por el mundo de Dragon Quest XI.  En el Rapid-Fire comentamos las noticias sobre Dragon Ball, Star Wars, Rocket League, la Switch y el Mortal Kombat 11.  Para la Main Quest, analizamos un poco el documento de SuperData sobre el resumen de 2018 en numeros e intentamos sacar algunas conclusiones al respecto.  Para finalizar, en el Special Move, Maxi nos recomienda 8-bit music theory, en particular  Iconic Opening Intervals . Nico por su parte nos recomienda el canal de  Loulogio .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2205,14 +2213,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2220,6 +2220,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
