@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 337: Metro Exodus, la semilla de la discordia/destrucción</title>
+    <itunes:summary> ¡Ni el origen de los conflictos podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llegó!        En este episodio:   Maxi retorna a Monster Hunter World para contarnos su crossover con The Witcher 3, mientras Nico NO nos recomienda jugar Resident Evil 0 en Xbox, y nos cuenta sus primeras impresiones de Apex Legends, lo nuevo de Respawn Entertainment.  Para el Rapid-Fire contamos con el anuncio desprevenido de Microsoft en el cronograma de la GDC, mas features opcionales en el Epic Games Store, EA y sus servicios, Sony y sus miedos y una alianza entre Beamdog y Skybound Games para traer los clasicos de vuelta.  Para finalizar, en el Special Move, Nico nos recomienda el podcast de Ezequiel Vila y Sergio Roldan:  2 Players podcast .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews337/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews337/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 11 Feb 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>5622.11</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 336: Va a ser KIWAMI Time antes de que termines el Dragon Quest - Alta magia guacho Edition</title>
     <itunes:summary> ¡Ni los lapsos de tiempo especiales podrán salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llegó!        En este episodio:   Maxi continua jugando Tales of Vesperia: Definitive Edition, y nos cuenta como finalizo su historia con el Ace Combat 7: Skies Unknown. Nico por su parte, vuelve a Dragon Quest XI para continuar su eterna aventura.  En el Rapid-Fire tenemos noticas varias sobre Dragon Ball, Nintendo y su estrategia mobile, el drama de Metro Exodus, los nuevos features del Epic Games Store y #ESPECULANDIA.  Para la Main Quest, nos basamos en un articulo proporcionado por Neko Bacchiani de Gamesindustry.biz sobre los “paramedicos narrativos” y su declive a traves de los años.  Para finalizar, el Special Move con las recomendaciones semanales. Maxi recomienda el manga Shin Mazinger Zero, que esta editando IVREA de forma local, mientras que nico nos recomienda un video del Video Game Historian llamado   The story of TETЯIS .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2221,14 +2229,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2236,6 +2236,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
