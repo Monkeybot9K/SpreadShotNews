@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 339: Halo: 6 Dragons - Headsets &amp; Coats Edition</title>
+    <itunes:summary> ¡Ni secuelas alternativas podran detenernos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!        En este episodio:   Nico se despacha con una lista sabana de juegos: Apex Legends, Captain Toad: Treasure Tracker, Snipperclips, Wargroove y Dragon Quest XI. Maxi por su lado estuvo jugando killer7 y un poco de Monster Hunter World y Tales of Vesperia.  En en Rapid-Fire tenemos noticias sobre el Sigil de John Romero, Razer y su storefront, el retiro de Reggie y un #ESPECULANDIA con Nintendo haciendo necromancia, Microsoft expandiendo sus servicios y la proxima generacion de consolas.  En el Hot Coffee, nos redimimos de la semana pasada y finalmente comentamos buena parte de lo que sucedio en la mas reciente Nintendo Direct.  Para finalizar, en el Special Move, Maxi nos recomienda el anime  Double Decker!: Doug &amp; Kirill . Nico nos recomienda la entrevista/documental de  Game Maker’s Toolkit sobre el nivel de Miami del Hitman 2 .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews339/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews339/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 25 Feb 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>9337.37</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 338: SUPER ESPECIAL NINTENDO DIRECT 13/02/2019 TODA LA INFO - SEXO GRATIS EDITION</title>
     <itunes:summary> ¡Ni todas las falsas promesas del mundo podran salvarlos!¡Porque es Martes y SpreadShotNews Podcast ya esta aqui!    En este episodio:   Nuevamente la atemporalidad se apodera del podcast y nos obliga a grabar fuera del la linea de tiempo original, haciendo que Maxi juegue killer7 y Nico continue a puro Apex Legends.  Dado que contamos con un capitulo atemporal, nos abstenemos de Rapid-Fire y nos avocamos directamente a una Main Quest que se compone de preguntas que nos hicieron algunos de ustedes a nuestro google forms (nuevamente arengamos a todos los que quieran hacernos preguntas o sugerirnos temas para tratar, lo hagan).  Para finalizar, como siempre, en el Special Move tenemos las recomendaciones de la semana en forma de una entrevista en 2 partes ( 1  y  2 )a Toshihiro Nagoshi (no es la misma de la otra vez) y las  “historias de trinchera” de varios desarrolladores de videojuegos  recopiladas por ArsTechnica, para demostrar que hacer videojuegos es jodido.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2237,14 +2245,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2252,6 +2252,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
