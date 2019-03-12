@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 341: Te juro que Cristian de Nivel X dijo: “Muchas personalidades”</title>
+    <itunes:summary> ¡Ni las declaraciones de antaño podran ayudarlos!¡Porque es martes y SpreadShotNews podcast ya esta aqui!        En este episodio:   Maxi termina el Killer7, arranca pero abandona inmediatamente el LEFT ALIVE y por ultimo arranca el Devil May Cry 5. Nico por su parte continua a puro Dragon Quest XI.  En el Rapid-Fire, tenemos noticias sobre Nintendo y su intento de entrar en el mercado VR, EA confirmando su evento pre-E3, gog aliandose con Blizzard para traer el Diablo 1 a las PCs de hoy y un #ESPECULANDIA sobre la version digital de la Xbox One.  Para la Main Quest charlamos sobre un articulo de  gamesindustry.biz  que habla sobre el lanzamiento de Anthem.  Para finalizar, en el Special Move, Maxi nos recomienda el  concierto sinfonico de Nier . Nico por su parte nos recomienda el  canal de youtube de Matthewmatosis .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews341/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews341/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 11 Mar 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>8351.87</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 340: Estoy empezando a entender algo, como por ejemplo que el juego transcurre en el planeta Tierra</title>
     <itunes:summary>     ¡Ni el aparente conocimiento podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!    En este episodio:   Nico vuelve a la normalidad y nos cuenta mas en detalle sobre Tetris99 y un poco mas de Apex Legends. Maxi continua intentando descifrar que es killer7 y tambien nos cuentas sus impresiones sobre la demo de Daemon X Machina.  En el Rapid-Fire, repasamos noticas sobre Tencent y su nuevo servicio de streaming, La generacion 8 de Pokémon llegando a Switch, una breve mirada al interior de Nintendo, nuevos juegos de DUNE, GOG ajustandose a los tiempos que corren en la distribucion digital en PC y un #ESPECULANDIA de Microsoft y Relic.  En la Main Quest charlamos sobre  este  articulo que analiza el “costo de inicio” de un JRPG en funcion del tiempo que se tiene que invertir para poder llegar a un estado de “confort” en el mismo.  Para finalizar, como siempre, en el Special Move Maxi nos recomienda  noclip.website , un sitio que cuenta con un repositorio de mapas de diferentes juegos donde se puede explorar con camara libre dichos ambientes. Nico nos recomienda  Red Letter Media  y la serie australiana de comedia Danger 5.         </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2253,14 +2261,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2268,6 +2268,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
