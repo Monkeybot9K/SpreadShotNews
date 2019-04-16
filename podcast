@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 346: El proyecto Rogelio terminó siendo VR Sagarnapa - Cosas Avionicas Edition</title>
+    <itunes:summary> ¡Ni los nombres clave mas estrafalarios podran amedrentarnos!¡Porque es martes y SpreadShotNews Podcast ya llegó!    En este episodio:   Nico remonta hacia los cielos de Strangereal con Ace Combat 7, mientras Maxi se enfrenta a su pila de la vergüenza y mientras “hace tiempo” esperando Katana Zero, nos cuenta sobre Hyrule Warriors: Definitive Edition y Anima: The Gate of Memories.  En el Rapid-Fire tenemos noticias sobre Tencent, el cambio de ID de PlayStation (y sus contraindicaciones), la confirmacion (pero no) de Square Enix sobre Octopath Traveler y el siguiente capitulo de la historia de Kazuma Kiryu en PC, ademas contamos con un nuevo #ESPECULANDIA.  Para la Main Quest, contestamos una pregunta que nos dejo  Nicolas Charlie Alvarez  sobre el actual debate de Epic Games Store vs Steam (basado en los dichos de  este articulo de PC Gamer )  Para finalizar, en el Special Move Nico nos  recomienda un video para saber como fotografiar un agujero negro , y Maxi nos recomienda un video sobre la particular situacion en la que se encuentra la  segunda temporada de One Punch Man .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews346/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews346/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 15 Apr 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>5794.51</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 345: Sistema Anti-Review Bombing - Europeos Indagando Sobre Cosas Edition</title>
     <itunes:summary> ¡Ni las contramedidas electrónicas podran ayudarlos!¡Porque es martes y SpreadShotNews ya está aqui!        En este episodio:   Maxi retorna brevemente a Devil May Cry 5 para contarnos sobre el Blood Palace y desempolva el Valkyria Chronicles 4. Nico termina el Yakuza KIWAMI y se debate sobre su proximo destino videojueguil.  Para nuestro Rapid-Fire tenemos noticias sobre la implementacion del nuevo sistema de Valve contra el review bombing, Europa investiga parte 1: Microsoft, Sony y Nintendo, Europa investiga parte 2: Bandai Namco, Valve, ZeniMax y mas, Nintendo y VR, ¿Octopath traveler y PC?, Sony y los reembolsos y Best Buy tomando la posta de Walmart.  En la Main Quest, tomamos como punto de partida el articulo de  Gamesindustry.biz  para plantearnos que va a pasar de aca en adelante con los pre-orders y como eso potencialmente podria repercutir sobre el estado del lanzamiento de los juegos.  Para finalizar, en el Special Move, Maxi nos recomienda un analisis del español ShaunTrack sobre  Bohemian Rhapsody de Queen , y el video de april fool’s que hizo la gente de  龍が如くスタジオ(Ryu Ga Gotoku Studio) . Nico nos recomienda la recientemente estrenada serie de  ULTRAMAN en Netflix .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2293,14 +2301,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2308,6 +2308,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
