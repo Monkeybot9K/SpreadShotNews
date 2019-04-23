@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 347: A los japoneses les gusta escribir por toda la pantalla</title>
+    <itunes:summary> ¡Ni los fetiches literarios podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llegó!        En este episodio:   Nico sigue surcando los cielos en Ace Combat 7, mientras que Maxi finalmente se rinde frente a Anima: Gate of Memories y sorprende arrancando God of War (2018).  En el Rapid-Fire tenemos los primeros detalles de la proxima PlayStation, Sony admitiendo su nuevo sistema de “review interno” y Microsoft presentando cosas que se vienen rumoreando de hace tiempo.  Para la Main Quest, nos ponemos a tono con la discusion sobre accesibilidad versus dificultad que disparo el Sekiro: Shadows Die Twice.  Para finalizar, en el Special Move, Nico nos recomienda el podcast  No one can know about this , mientras que Maxi nos recomienda un manga de un Yakuza devenido en amo de casa en  Gokushufudou .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews347/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews347/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 22 Apr 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>6830.13</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 346: El proyecto Rogelio terminó siendo VR Sagarnapa - Cosas Avionicas Edition</title>
     <itunes:summary> ¡Ni los nombres clave mas estrafalarios podran amedrentarnos!¡Porque es martes y SpreadShotNews Podcast ya llegó!    En este episodio:   Nico remonta hacia los cielos de Strangereal con Ace Combat 7, mientras Maxi se enfrenta a su pila de la vergüenza y mientras “hace tiempo” esperando Katana Zero, nos cuenta sobre Hyrule Warriors: Definitive Edition y Anima: The Gate of Memories.  En el Rapid-Fire tenemos noticias sobre Tencent, el cambio de ID de PlayStation (y sus contraindicaciones), la confirmacion (pero no) de Square Enix sobre Octopath Traveler y el siguiente capitulo de la historia de Kazuma Kiryu en PC, ademas contamos con un nuevo #ESPECULANDIA.  Para la Main Quest, contestamos una pregunta que nos dejo  Nicolas Charlie Alvarez  sobre el actual debate de Epic Games Store vs Steam (basado en los dichos de  este articulo de PC Gamer )  Para finalizar, en el Special Move Nico nos  recomienda un video para saber como fotografiar un agujero negro , y Maxi nos recomienda un video sobre la particular situacion en la que se encuentra la  segunda temporada de One Punch Man .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2301,14 +2309,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2316,6 +2316,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
