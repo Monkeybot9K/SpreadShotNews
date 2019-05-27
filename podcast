@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 352: Que más calidad que producir en vivo</title>
+    <itunes:summary> ¡Ni la generacion de contenido impromptu podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!        En este episodio:   Maxi finaliza su aventura en el Final Fantasy IV y se encuentra con lo que presume es la final de Katana Zero. Nico por su parte continua su peripecia por Dark Souls: Remastered y ademas Yakuza Kiwami 2.  En el Rapid-Fire tenemos el anuncio de PlayStation Productions, el fin oficial de la Ouya (que creiamos que ya habia ocurrido), Nintendo vs Bélgica y GOG anuncia GOG Galaxy 2.0.  En la Main Quest, contestamos una de las preguntas de nuestro google forms sobre el porcentaje de finalizacion de los juegos por parte de los jugadores.  Para finalizar, en el Special Move, Nico nos recomienda Starlight Brigade, el ultimo single de Tupperware Remix Party, mientras Maxi nos recomienda Takeshi’s Castle, un juego de competicion simil Supermatch de origen japones.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews352/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews352/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 27 May 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>5903.48</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 351: Cuando algo es “smart” es imbécil en general - Los chinos me están pagando el sueldo o algo asi Edition</title>
     <itunes:summary> ¡Ni las contradicciones podran detenernos!¡Porque es martes y SpreadShotNews Podcast ya esta aquí!        En este episodio:   Maxi nos cuenta las ultimas novedades de Monster Hunter World, continua con su aventura en Final Fantasy IV y Katana Zero. Nico mientras tanto continua su peripecia por Dark Souls: Remastered y arranca Yakuza Kiwami 2.  En el Rapid-Fire Super XL de esta semana, tenemos un resumen del PlayStation State of Play, nueva informacion sobre Monster Hunter World: Iceborne, la Nintendo Direct de Mario Maker 2, SEGA comprando cosas, Sony ahora se acuerda que EA Access existe, La Switch sigue vendiendo un monton, CAPCOM sorprende con el Devil May Cry 1 en Switch, Epic aterriza en China y lanza su primera mega oferta, con problemas, Sony y Microsoft anuncian una particular “alianza”, Riot continua en su misma postura para con sus empleados y un nuevo proyecto de ley en Estados Unidos apunta directamente a prohibir las lootboxes y microtransacciones pay-to-win.  Para el Special Move, Nico nos recomienda el canal  moderndayjames , mientras Maxi nos recomienda un nuevo documental de noclip,  Telltale: The Human Stories Behind The Games .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2341,14 +2349,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2356,6 +2356,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
