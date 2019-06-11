@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 354: Soy Batman, y todos ustedes no - Si, ese, el doctor negro Edition</title>
+    <itunes:summary> ¡Ni el caballero de la noche podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!   En este episodio:   Maxi continua su investigacion arqueologica en Final Fantasy I, mientras Nico continua con Gato Roboto y Yakuza Kiwami 2.  En el Rapid-Fire tenemos la Direct de Pokemon, Google complicando sus anuncios de Stadia, las filtraciones pre-e3 de cada año y Blizzard negandose otra vez a hacer un shooter de Starcraft.  Para la Main Quest, como es costumbre, tenemos nuestras predicciones sobre la E3.  Para finalizar, en el Special Move, tenemos documentales. Maxi nos recomienda un par de mini documentales dedicados a  Yoko Taro  y  Keiichi Okabe . Nico nos recomienda   The Making of Star Fox .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews354/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews354/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 10 Jun 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>9773</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 353: Norman Reedus como Norman Reedus llevando paquetes - Sacar al elefante de la habitación, o como se diga la frase Edition</title>
     <itunes:summary> ¡Ni los famosos actuando como changarines podran salvarlos!¡Porque es Martes y SpreadShotNews Podcast ya esta aqui!   En este episodio:   Nico continua con Yakuza Kiwami 2 y nos cuenta sobre Gato Roboto, Maxi por su parte, “termina” Katana Zero, hace un addendum sobre Final Fantasy IV y arranca Final Fantasy I, porque una cosa llevo a la otra.  Para el Rapid-Fire, tenemos un mini resumen sobre la conferencia de prensa de The Pokémon Company, Gamescom Asia, Kojima y sus trailers, noticias sobre el Xbox Game Pass, Call of Duty: Modern Warfare (Again), Square Enix y Collection of mana... localización inminente? y Google “vs” lootboxes.  En la Main Quest, tomamos el comentario de Gaston Berezagá donde se plantea varias preguntas surgidas de nuestra charla de la semana anterior.  Para finalizar, en el Special Move, Nico nos recomienda el analisis de  Matthewmatosis sobre el God of War (2018) , mientras Maxi nos recomienda el concierto de  SUPER NES BAND de Final Fantasy IV , ademas tambien nos recomienda un video llamado  Phoenix Wright: Smooth Criminal .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  https://goo.gl/forms/sLLtI29yk2Qw2zFB2   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2357,14 +2365,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2372,6 +2372,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
