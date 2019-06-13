@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SpreadShotNews Podcast</title>
+        <link rel="shortcut icon" href="favicon.ico">
+
+        <!-- META tags for social -->
+        <meta property="og:title" content="SpreadShotNews Podcast">
+        <meta property="og:description" content="Podcast donde discutimos sobre los video juegos y su industria, que nos gusta, que no y por qué, entre otras cosas.
+">
+        <meta property="og:image" content="http://spreadshotnews.com/assets/SSN_1400.png">
+        <meta property="og:url" content="http://spreadshotnews.com/">
+        <meta name="twitter:card" content="summary_large_image">
+        
+    </head>
+    <body>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScatFJnV7yPfOyiSGQpQvNQZdBNX4fAZbWDcO7H1df-RnuIrQ/viewform"
+        frameborder="0"
+        style="overflow:hidden; width:100%; height:100%; position:absolute; top:0px; left:0px; right:0px; bottom:0px;"
+        height="100%"
+        width="100%">Your browser doesn't support iFrames.</iframe>
+    </body>
+</html>
