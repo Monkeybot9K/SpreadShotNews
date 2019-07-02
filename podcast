@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 357: Si algo no es de color dorado o violeta, no me interesa un choto</title>
+    <itunes:summary> ¡Ni la codificación cromatica podrá ayudarlos!¡Porque es Martes y SpreadShotNewsPodcast ya esta aquí!   En este episodio:   Comenzamos con la miniserie de 3 episodios atemporales donde Maxi sufre los efectos del hype y se compra el Darksiders III, mientras Nico busca que jugar en el avion y quiza Super Smash Bros. Ultimate pueda cumplir ese rol (o no).  Para la Main Quest tomamos un articulo de Gamasutra llamado Seeing the Spreadsheet donde ahondamos un poco en que implica mostrar u ocultar los “numeros” y como eso afecta a diferentes tipos de jugadores.  Para finalizar, en el Special Move, Nico nos recomienda el canal de youtube Corridor Crew, donde artistas de efectos especiales analizan buenos y malos efectos 3D y varias cosas mas. Maxi nos recomienda a  Freddy Mercury cantando Don’t Stop Me Now  de una forma... particular.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spreadshotnews357/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spreadshotnews357/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 01 Jul 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>3752.2</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 356: El Tiranosaurio con cuernos, el Tiranoalce le digo yo - Habia un payaso y creo que un elefante Edition</title>
     <itunes:summary> ¡Ni la fauna hibrida podra ayudarlos!¡Porque es martes y SpreadShotNews Podcast ya llegó!   En este episodio:   Nico aplaude, mientras Maxi nos cuenta mas sobre Final Fantasy I y su decision de ser un sucio cheater, ademas tambien nos da sus impresiones sobre la Beta de Monster Hunter: World - Iceborne.  En el Rapid-Fire no tenemos muchas noticias porque semana post E3, pero aclaramos informaciones erroneas, Valve actualiza Steam con Remote Play y ya no podemos atraparlos a todos en Pokemon.  Para el Hot Coffee, contamos con una nueva entrada en nuestro micro NEVER ENDING STORYYYYYYY, porque EA y Epic siguen haciendo de las suyas, esta vez frente al parlamento del Reino Unido.  Para finalizar, en el Special Move, Maxi nos recomienda la  tercera parte del documental de noclip sobre Hades , mientras Nico nos recomienda el canal  Jungle Survival, donde 2 chabones construyen casas en la selva .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:    spreadshotnews.com/preguntas  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2381,14 +2389,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2396,6 +2396,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
