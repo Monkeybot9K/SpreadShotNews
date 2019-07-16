@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 359: El bichito que salta al ritmo - Heavy Jason o Jason Rain Edition</title>
+    <itunes:summary> ¡Ni los brincos asincopados podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!   En este episodio:   Maxi continua explorando el apocalipsis en Darksiders III. Nico por su parte continua con el Crypt of the Necrodancer.  Para nuestra main quest, contestamos algunas de las preguntas que nos enviaron a  spreadshotnews.com/preguntas . Gracias a Charlie Alvarez, Axolotedigital, Gustavo de Cafe Fandango y Gaston, que cuida el medio ambiente a su manera por sus preguntas.  Para finalizar, en el Special Move, Maxi nos recomienda el trailer de  Doom Eternal, pero rehecho en Doom 2 , y el sitio  delistedgames.com , un proyecto donde se van listando todos los juegos que ya no se pueden conseguir de forma legal.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:    spreadshotnews.com/preguntas  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spreadshotnews359/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spreadshotnews359/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>5404.69</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 358: No tenía un ejemplo más rápido, debe ser porque nuestra cultura es una mierda</title>
     <itunes:summary> ¡Ni el actual estado de nuestra cultura podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!   En este episodio:   Maxi continua con Darksiders III retocando y experimentando con settings. Nico por su parte llega a Crypt of the Necrodancer y nos cuenta sus primeras impresiones.  En la Main Quest, charlamos sobre una presentacion que se desprende de nuestra charla de la semana pasada, donde hablamos de los diferentes tipos de avatares y como estos se relacionan con el jugador para generar mayor inmersion.  Para finalizar, en el Special Move, Maxi nos recomienda una  entrevista de eurogamer a Mike Pondsmith  sobre Cyberpunk 2077 y su influencia sobre el desarrollo. Nico por su parte nos recomienda la playlist de  Video Game Archive - Making of &amp; Beta videos - Witcher 1,2,3 .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:    spreadshotnews.com/preguntas  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2397,14 +2405,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2412,6 +2412,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
