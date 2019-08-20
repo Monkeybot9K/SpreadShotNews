@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 364: Sáquenle “el cofre de la vergüenza” y pónganle “el cofre de la victoria”</title>
+    <itunes:summary> ¡Ni los cambios de nomenclatura podran salvarlos!¡Porque es martes y SpreadShotNewsPodcast ya llegó!   En este episodio:   Maxi continua brevemente Final Fantasy VI pero se topa con una oferta de Monster Hunter World en PC y... pasan cosas. Nico mientras tanto, continua el Wolfenstein: New Colossus y ademas sigue a pura instruccion monástica en Fire Emblem Three Houses.  En el Rapid-Fire tenemos el detalle del ultimo changuito de compras de THQ, Bohemia Interactive y su decision para con DayZ y lo que parece ser un nuevo control de SNES para Nintendo Switch.  Para el Hot Coffee discutimos un poco sobre los recientes dichos de Matt Booty con respecto a la estrategia de Xbox con respecto a sus estudios First Party.  Para finalizar en el Special Move, Maxi nos recomienda  Space Battleship Yamato de Leji Matsumoto , mientras Nico nos recomienda el  canal de youtube Nerdomancers . </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spreadshotnews364/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spreadshotnews364/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 19 Aug 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>6757.57</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 363: Irrelevante, digo esta eleccion, no lo de las minitas - La ordern de la Pope Lady Edition</title>
     <itunes:summary> ¡Ni las elecciones sin relevancia podra salvarlos!¡Porque es martes y SpreadShotNewsPodcast ya esta aqui!   En este episodio:   Nico termina Wolfenstein: New Order y arranca Wolfenstein: New Colossus, ademas de Fire Emblem: Three Houses. Maxi por su parte nos cuenta lo que quedo en el tintero con respecto a Judgment, comienza el “road to Monster Hunter World: Iceborne” y ademas arranca el Final Fantasy VI.  En el Rapid Fire, resumimos velozmente los anuncios de la EVO 2019, ademas Death Stranding deja de ser exclusivo a pesar de que nunca lo fue especificamente y por ultimo Annapurna aparentaria estar en problemas financieros.  En el Hot Coffee discutimos sobre el reciente panel organizado por la FTC (Federal Trade Comission) acerca de la posible y/o eventual regulacion sobre las lootboxes y microtransacciones.  Para finalizar, en el Special Move, Nico nos recomienda el canal de youtube  New Frame Plus . Maxi por su parte nos recomienda el canal de  The Monster Hunter Math Guys .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:    spreadshotnews.com/preguntas  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2437,14 +2445,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2452,6 +2452,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
