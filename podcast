@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 371: Aguante el Cacamari</title>
+    <itunes:summary> ¡Ni las esferas fecales podran salvarlos!¡Porque es martes y SpreadShotNewsPodcast ya llegó!   En este episodio:   Maxi se roba descaradamente una seccion de otro podcast para instaurar el Monster Hunter Minute, ademas también continua con el Daemon X Machina. Nico por su parte continua con mas Fire Emblem: Three Houses.  En el Rapid-Fire tenemos noticias sobre Sony y la reciente partida de Shawn Layden y Atsushi Morita, PlayStation Now baja su precio de suscripcion y ademas PlayStation da por finalizado su periodo de “beta” para el cross-platform play.  En la Main Quest, charlamos sobre un articulo de medium llamado  “I don’t think I like prestige games” , ademas tambien mencionamos el video de  Matthewmatosis sobre God of War (2018) .  Para finalizar, en el Special Move, Nico nos recuerda que el OST de Evangelion esta en Spotify. Maxi nos recomienda (via Marce Orosa) el perfil de instagram de  Gabriel H Lucero llamado Gente Rota .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spreadshotnews371/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spreadshotnews371/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 07 Oct 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>6627.49</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 370: Viene el búho y me dice “¡anda para allá!” - Alguien suspira en el viento: “Monster Hunter...” Edition</title>
     <itunes:summary> ¡Ni las aves guía podrán salvarlos!¡Porque es Martes y SpreadShotNews Podcast ya llegó!   En este episodio:   Maxi confirma lo que todos sabiamos: que va a seguir jugando Monster Hunter de fondo, y ademas arranca el Daemon X Machina y nos cuenta sus primeras impresiones. Nico llega al famoso time skip en Fire Emblem: Three Houses, arranca el The Legend of Zelda: Link’s Awakening y tambien el Control.  En el Rapid-Fire, charlamos sobre la Nintendo Direct de PlayStation y su reciente apertura de su local de venta al publico, Google anunciando su Apple Arcade con similares condiciones predatorias para con los desarrolladores, NGD anuncia que se abre al mercado mundial y finalmente Mario Kart Tour tiene un monton de desacargas.  Para finalizar en el Special Move, Maxi nos recomienda que  tengamos miedo viendo la nueva version de Atlas  siendo mas agil que la mayoria de la poblacion humana. Nico nos recomienda el  canal de youtube de Legal Eagle , un abogado que habla sobre el sistema legal de Estados Unidos y explica casos y curiosidades del mismo. </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2493,14 +2501,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2508,6 +2508,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
