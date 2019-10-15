@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 372: Es un mono gigante con cuernos que se transforma en Super Saiyajin cuando se enoja - Me olvido que la gente se conoce en internet Edition</title>
+    <itunes:summary> ¡Ni el famoso protagonista de conocido anime podra salvarlos!¡Porque es martes y SpreadShotNewsPodcast ya llegó!   En este episodio:   Maxi no puede dejar Monster Hunter World: Iceborne y mas aun que llego la primer actualizacion. Nico mientras tanto, esta cerca del final de Fire Emblem: Three Houses, nos cuenta que onda el DownWell y prueba la nueva version de Destiny 2 ahora que es free to play.  En el Rapid-Fire tenemos noticias sobre las remakes de The House of the Dead 1 y 2, Sony anuncia mas detalles y el nombre de la PlayStation 5, Google y su “latencia negativa”, GGPO se vuelve abierto a todos los que lo quieran usar y Valve anuncia “remote play together”.  Para el Hot Coffee repasamos la movida semana que tuvo Blizzard y nos preguntamos como impactará esto en la industria.  Para finalizar en el Special Move, Nico nos recomienda  Te lo Resumo , mientras que Maxi nos recomienda lo que podria llegar a ser  la mejor razon  para tener un  headset VR .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spreadshotnews372/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spreadshotnews372/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 14 Oct 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>8028.3</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 371: Aguante el Cacamari</title>
     <itunes:summary> ¡Ni las esferas fecales podran salvarlos!¡Porque es martes y SpreadShotNewsPodcast ya llegó!   En este episodio:   Maxi se roba descaradamente una seccion de otro podcast para instaurar el Monster Hunter Minute, ademas también continua con el Daemon X Machina. Nico por su parte continua con mas Fire Emblem: Three Houses.  En el Rapid-Fire tenemos noticias sobre Sony y la reciente partida de Shawn Layden y Atsushi Morita, PlayStation Now baja su precio de suscripcion y ademas PlayStation da por finalizado su periodo de “beta” para el cross-platform play.  En la Main Quest, charlamos sobre un articulo de medium llamado  “I don’t think I like prestige games” , ademas tambien mencionamos el video de  Matthewmatosis sobre God of War (2018) .  Para finalizar, en el Special Move, Nico nos recuerda que el OST de Evangelion esta en Spotify. Maxi nos recomienda (via Marce Orosa) el perfil de instagram de  Gabriel H Lucero llamado Gente Rota .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2501,14 +2509,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2516,6 +2516,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
