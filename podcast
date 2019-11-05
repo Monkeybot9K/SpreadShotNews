@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 375: El balde en el techo y el salto de fe - Un saludo a Guillo Leoz Edition</title>
+    <itunes:summary> ¡Ni referencias esotericas a eventos del pasado podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!   En este episodio:   Maxi continua jugando Daemon X Machina y nos ofrece una pieza de sabiduria. Nico por su parte termina The Legend of Zelda: Link’s Awakening y comienza The Outer Worlds.  En el Rapid-Fire, Microsoft presenta sus comodas cuotas, Death Stranding confirma que ya no es mas exclusivo de PS4, EA revela el secreto que “nadie” adivino la semana pasada, Valve vs los fraudes financieros y Amazon bloqueando ventas de usados.  En el Hot Coffee, analizamos lo que nos dejo la Blizzcon, por lo menos el dia 1.  Para finalizar en el Special Move, les dejamos un video de  Jeff y Brad de giant bomb jugando Death Stranding bajo las reglas de embargo .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spreadshotnews375/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spreadshotnews375/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 04 Nov 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>6612.87</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 374: Gatekeeping de habilidades y Gatekeeping de Gatekeeping</title>
     <itunes:summary> ¡Ni los guardianes metaforicos ni reales podran detenernos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!   En este episodio:   Nico nos sigue contando sus aventuras por Koholint en The Legend of Zelda: Link’s Awakening, ademas continua intendando discernir la historia de Destiny 2. Maxi por su parte continua con Daemon X Machina y salda una deuda pendiente contando que le parecio el final de Final Fantasy VI.  En el Rapid-Fire, Bethesda sigue haciendo Bethesdacosas con el Fallout 76, EA se hace el sospechoso con emanaciones de agua hirviendo, Suda51 y Swery65 demuestran como es el game development y Dreams sueña con romper las barreras de PlayStation.  Para la Main Quest nos sumergimos en un articulo de gamasutra escrito por Chris Zukowski que habla sobre como son los habitos de los potenciales compradores de steam y cuales son los datos que consideran importantes.  Para finalizar, en el Special Move, Nico nos recomienda el podcast de  Star Trek “The Greatest Generation” , mientras que Maxi nos recomienda tanto el  making of  como el album de “first of october” la banda formada por Andrew Huang y Rob Scallon.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2525,14 +2533,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2540,6 +2540,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
