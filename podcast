@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 377: Si alguien puede crear la Singularidad, ese es John Carmack</title>
+    <itunes:summary> ¡Ni la inminente destruccion de la humanidad podrá salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llego!  En este episodio:  Maxi finalmente termina el Daemon X Machina, y nos cuenta ademas sobre CODE VEIN, mientras Nico sigue con el Astral Chain y junto con Maxi comentan Luigi’s Mansion 3.  Para el Rapid-Fire, Tencent quiere desarrollar juegos, Human Head Studios cierra (pero no), Google continua haciendo a Stadia cada vez menos atractivo y John Carmack... nos destruirá a todos.  En la Main Quest repasamos los anuncios de la XO19.  Para finalizar, en el Special Move, Maxi nos recomienda  Beat It, de Michael Jackson pero version FLOPPOTRON .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spreadshotnews377/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spreadshotnews377/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 18 Nov 2019 00:00:00 GMT</pubDate>
+    <itunes:duration>7245.46</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 376: El papá de Celeste Cid en la novela que no me acuerdo - Here comes a New Challenger Edition</title>
     <itunes:summary> ¡Ni las figuras paternas artificiales podrá detenernos!¡Porque es martes y SpreadShotNews ya esta aquí!   En este episodio:   Maxi se acerca al final de Daemon X Machina, no sin algunos accidentes en el medio, mientras Nico arranca el Astral Chain y continua con The Outer Worlds.  Para el Rapid-Fire, tenemos mas cambios en la jerarquia de PlayStation, Valve y su supuesto acercamiento al streaming y ademas asociandose con Apple.  En la Main Quest, comentamos 2 videos sobre Core-A Gaming que hablan sobre  las consecuencias de reducir la brecha de habilidad  y  los juegos de pelea mas simples .  Para finalizar, en el Special Move, Maxi nos recomienda el Quick Look de giantbomb sobre Death Stranding y Nico nos recomienda  una entrevista a Kim-Jung-Ji  y  el canal del mangaka Akihito Yoshitomi .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2541,14 +2549,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2556,6 +2556,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
