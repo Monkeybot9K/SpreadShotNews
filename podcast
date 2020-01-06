@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 384: El opening de Final Fantasy VII pero todo rehecho en Super TV Channel</title>
+    <itunes:summary> ¡Ni las mejores introducciones rehechas podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llegó!   En este episodio:   Nico continua a puro Final Fantasy XII y despues comentan junto con Maxi mas Sekiro: Shadows Die Twice.  En el primer Rapid-Fire de 2020, nos ponemos al dia con las noticias, arrancando por el nuevo arreglo entre CDPROJEKT y Andrzej Sapkowski, todos los leaks habidos y por haber de Final Fantasy VII Remake, Vince Zampella y su nuevo cargo en DICE LA, Google compra Typhoon Studios, Las esperanzas para un remaster de Xenosaga se esfuman por el momento y Sony anuncia un add-on para Dualshock 4.  Para finalizar, en el Special Move, Nico nos recomienda la review de  Star Wars Episode IX de half in the bag , Maxi mientras tanto nos recomienda el documental de noclip que cuenta los  origenes de Supergiant Games y su primer juego, Bastion .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spreadshotnews384/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spreadshotnews384/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>5165.88</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 383: uPlay ponele (a secas) - Starting the Fight Edition</title>
     <itunes:summary> ¡Ni nombres alternativos visiblemente peores a serivicios de suscripcion podran salvarlos!¡Porque es martes y SpreadShotNews ya llegó!   En este episodio:   En el ultimo episodio de 2019, Nico termina Halo: Reach y continua avanzando a traves de Final Fantasy XII: The Zodiac Age. Maxi por su parte sigue buscando excusas y ahora las encuentra en forma de Sekiro: Shadows Die Twice.  En la Main Quest, repasamos las predicciones de 2019 para ver que tan acertadas/desacertadas fueron. Luego de eso, preparamos las predicciones para el 2020 que sabremos a fin de año que tan acertadas fueron.  Para el Special Move, Maxi y Nico recomiendan las deliberaciones de juego del año de Giant bomb como todos los años, y ademas Nico tambien recomienda el ultimo episodio del año de Cafe Fandango con los top 10 de la decada de cada uno de los integrantes.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2597,14 +2605,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2612,6 +2612,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
