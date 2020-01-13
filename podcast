@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 385: No cursé estadística, pero me doy cuenta cuando me están manipulando - Me tomo un Budha y vuelvo Edition</title>
+    <itunes:summary> ¡Ni los estudios de probabilidad podran ayudarlos!¡Porque es martes y SpreadShotNews Podcast ya llegó!   En este episodio:   Maxi y Nico nos comentan sus respectivos avances en Sekiro: Shadows Die Twice.  Para el Rapid-Fire tenemos noticias sobre PlatinumGames y Tencent, un modder arreglando Street Fighter V, Sony revelando el logo de PS5 en la CES y la vuelta de #ESPECULANDIA.  Para el Hot Coffee, repasamos los anuncios de la Pokemon Direct y ademas debatimos sobre el anuncio de las expansiones para Pokemon Sword/Shield.  Para finalizar, en el Special Move, Maxi nos recomienda un articulo muy interesante de gamasutra llamado  “Ethics in the Videogame Industry: A Mythbusting and Scientific Approach por Celia Hodent  y tambien les hace saber que el soundtrack de la franquicia Nier esta disponible en Spotify. Nico nos recomienda  el monologo de apertura de Ricky Gervais en los Golden Globe Awards  y tambien informa que los soundtracks de Yakuza estan en spotify.  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas   </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spreadshotnews385/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spreadshotnews385/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>6211.9</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 384: El opening de Final Fantasy VII pero todo rehecho en Super TV Channel</title>
     <itunes:summary> ¡Ni las mejores introducciones rehechas podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llegó!   En este episodio:   Nico continua a puro Final Fantasy XII y despues comentan junto con Maxi mas Sekiro: Shadows Die Twice.  En el primer Rapid-Fire de 2020, nos ponemos al dia con las noticias, arrancando por el nuevo arreglo entre CDPROJEKT y Andrzej Sapkowski, todos los leaks habidos y por haber de Final Fantasy VII Remake, Vince Zampella y su nuevo cargo en DICE LA, Google compra Typhoon Studios, Las esperanzas para un remaster de Xenosaga se esfuman por el momento y Sony anuncia un add-on para Dualshock 4.  Para finalizar, en el Special Move, Nico nos recomienda la review de  Star Wars Episode IX de half in the bag , Maxi mientras tanto nos recomienda el documental de noclip que cuenta los  origenes de Supergiant Games y su primer juego, Bastion .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2605,14 +2613,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2620,6 +2620,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
