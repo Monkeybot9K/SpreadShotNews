@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 390: Te desambiguaba la imaginación, pero te la ambiguaba de otras formas</title>
+    <itunes:summary> ¡Ni las incertidumbres imaginativas podran salvarlos!¡Porque es martes y SpreadShotNews podcast ya esta aqui!   En este episodio:   Maxi regresa a Ace Combat 7 para contarnos sobre las misiones DLC, mientras Nico nos cuenta sus impresiones de Furi.  Para la Main Quest, tenemos mas de sus preguntas, en esta ocasion provenientes de Ignacio Gutt, Francisco Sarmiento y Gaston.  Para finalizar, en el Special Move, Maxi nos trae (via Francisco Sarmiento) la cancion  “Pick up the pieces” por la Phil Collins Big Band . Nico nos presenta  Your next favorite sobre Patlabor .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spreadshotnews390/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spreadshotnews390/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 17 Feb 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>5953.54</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 389: Todos adoramos a   y a su glorioso régimen</title>
     <itunes:summary> ¡Ni los elogios anonimos podran detenernos!¡Porque es martes y SpreadShotNews Podcast ya llego!   En este episodio:   Maxi nos cuenta sus pensamientos finales sobre Bullet Witch, mientras Nico retoma el Yakuza Kiwami 2, pero para contarnos sobre el Majima Chapter.  En la Main Quest, continuamos contestando preguntas que mandaron a  spreadshotnews.com/preguntas , en este caso preguntas de Gus y Gaston.  Para finalizar en el Special Move, Nico nos recomienda la historieta PTSD de Guillaume Singelin..  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas   </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2645,14 +2653,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2660,6 +2660,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
