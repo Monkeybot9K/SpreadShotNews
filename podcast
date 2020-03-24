@@ -21,7 +21,15 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
-    <title>SpreadShotNews Podcast 394: Podcastismo en tiempos de pandemia</title>
+    <title>SpreadShotNews Podcast 395: Cirugía plástica para todos: Todo el mundo la oreja de Mark Cerny</title>
+    <itunes:summary> ¡Ni las intervenciones quirurjias podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!   En este episodio:   Nico nos trae #FuertesDeclaraciones sobre Doom Eternal, continua jugando Bloodstained y se pone a probar Call of Duty: Warzone. Maxi por su parte, termina finalmente Yakuza 3 Remastered y arranca el Langrisser I.  Para el Rapid-Fire, tenemos noticias sobre la GDC “de verano”, mas consecuencias de los diferentes procesos de cuarentena en el mundo, Microsoft y las especificaciones de la Series X y Sony y sus especificaciones de la PlayStation 5.  Para finalizar, en el Special Move, recomendamos el video de Giantbomb viendo la conferencia de PlayStation y el canal de Brian David Gilbert en youtube.   Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas.</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spreadshotnews395/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spreadshotnews395/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 23 Mar 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>9053.36</itunes:duration>
+  </item><item>
+	<title>SpreadShotNews Podcast 394: Podcastismo en tiempos de pandemia</title>
     <itunes:summary> ¡Ni los virus podran detenernos!¡Porque es martes y SpreadShotNews Podcast ya esta aquí!   En este episodio:   Maxi casi termina Yakuza 3 y nos comenta como ve el port de Daemon X Machina. Nico por su parte termina el DOOM (2016) dandonos sus pensamientos finales y arranca Bloodstained: Ritual of the Night.  En el Rapid-Fire tenemos novedades sobre Horizon Zero Dawn, COVID-19 sigue afectando eventos, como la E3, Naughty Dog vuelve a ser noticia por el lamentable crunch que somete a sus empleados y Media Molecule anuncia una iniciativa para Dreams y su comunidad.  Para la Main Quest, respondemos varias preguntas que nos dejaron Gaston y Pyro, algunas relacionadas a videojuegos, otras no tanto.  Para finalizar, en el Special Move, Nico nos recomienda las speedruns de  DOOM del ultimo AGDQ 2020 .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
     <enclosure url="https://archive.org/download/spreadshotnews394/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
