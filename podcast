@@ -21,6 +21,15 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 400: EPISODI-OCD - CEDERRON Edition</title>
+    <itunes:summary>  ¡Ni la castellanizacion de terminos podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!     En este episodio:     Festejamos los 400 episodios con dos invitados de lujo: Gustavo Schneider de  Cafe Fandango  y Nicolas (Neko) Bacchiani de  esPONJA .    En el Now Loading, Gustavo nos cuenta sobre Legends of Runeterra, Dungeon Faster y su epopeya de ejercicio con Fitness Boxing. Neko nos trae todo el Final Fantasy VII (Remake y clasico) que no hubo en este podcast, Nico termina el Control pero se queda con ganas asi que arranca el DLC y Maxi nos cuenta sobre Granblue Fantasy Versus.    Para nuestra octava edicion de Knights of the Round, nos dedicamos a hablar sobre la paternidad y el gaming y todo lo que eso conlleva con nuestros invitados. Tambien les agradecemos un monton a todos los que respondieron nuestra encuesta, ¡muchisimas gracias!.    Para finalizar, en el Special Move, Gustavo nos recomienda el  canal de Youtube Cracking the Cryptic , Neko nos recomienda  Final Fantasy VII: A Literary Analysis  del canal de Youtube Games As Literature, Nico nos recomienda el  podcast de D&amp;D Dice Funk  y Maxi nos recomienda el  canal oficial de Youtube de TOEI .    Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:
+ spreadshotnews.com/preguntas .  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spread-shot-news-400/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spread-shot-news-400/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 27 Apr 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>10693.35</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 399: Ya te hice el trailer, pagame - Maximum Edition</title>
     <itunes:summary> ¡Ni los avances a pedido podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!   En este episodio:   Maxi finalmente termina Langrisser I y nos cuenta sobre Good Job!. Nico continua cada tanto Baba is You, algo de Animal Crossing: New Horizons y retoma Control.  En el Rapid Fire, tenemos noticias sobre la estrategia de PlayStation, El ESRB y PEGI cumpliendo su promesa con respecto a las lootboxes, Nintendo brindando mas accesibilidad, la vuelta del Game Festival para Junio, Gamescom 2020 se transforma en un evento 100% digital, Crysis Remastered es algo que deberia haberse llamado Crysis Maximum Edition, Fig es adquirido por otra firma y XCOM anuncia un nuevo juego.  Para el Hot Coffee, charlamos un poco sobre Vanguard, el nuevo sistema anti-cheat de Riot para su flamante FPS Valorant y sus potenciales problematicas.  Para finalizar, en el Special Move, Maxi nos recomienda un analisis de  8-bit Music Theory sobre Gusty Garden  de Mario Galaxy y las  sesiones de grabacion de Super Mario Oddyssey .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2725,14 +2734,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2740,6 +2741,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
