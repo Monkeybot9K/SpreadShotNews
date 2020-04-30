@@ -21,6 +21,15 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast - Guest Pass 02: Jeremias Curci</title>
+    <itunes:summary>  Bienvenidos al segundo Guest Pass de SpreadShotNews Podcast, en esta ocasion con el señor Jeremias Curci de invitado.    Nico charla con Jeremias brevemente sobre lo que cada uno estuvo jugando, para despues adentrarse en la tematica central: como abordar el gaming con los mas chicos.    Muchas gracias a Jeremias por prestar su tiempo para charlar con nosotros.    Pueden seguir a Jeremias en twitter en  @jerecurci .    Recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:
+ spreadshotnews.com/preguntas .  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/guest-pass-02-jeremias-curci/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/guest-pass-02-jeremias-curci/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 30 Apr 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>3022.03</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 400: EPISODI-OCD - CEDERRON Edition</title>
     <itunes:summary>  ¡Ni la castellanizacion de terminos podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya esta aqui!     En este episodio:     Festejamos los 400 episodios con dos invitados de lujo: Gustavo Schneider de  Cafe Fandango  y Nicolas (Neko) Bacchiani de  esPONJA .    En el Now Loading, Gustavo nos cuenta sobre Legends of Runeterra, Dungeon Faster y su epopeya de ejercicio con Fitness Boxing. Neko nos trae todo el Final Fantasy VII (Remake y clasico) que no hubo en este podcast, Nico termina el Control pero se queda con ganas asi que arranca el DLC y Maxi nos cuenta sobre Granblue Fantasy Versus.    Para nuestra octava edicion de Knights of the Round, nos dedicamos a hablar sobre la paternidad y el gaming y todo lo que eso conlleva con nuestros invitados. Tambien les agradecemos un monton a todos los que respondieron nuestra encuesta, ¡muchisimas gracias!.    Para finalizar, en el Special Move, Gustavo nos recomienda el  canal de Youtube Cracking the Cryptic , Neko nos recomienda  Final Fantasy VII: A Literary Analysis  del canal de Youtube Games As Literature, Nico nos recomienda el  podcast de D&amp;D Dice Funk  y Maxi nos recomienda el  canal oficial de Youtube de TOEI .    Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:
  spreadshotnews.com/preguntas .  </itunes:summary>
@@ -2734,14 +2743,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2749,6 +2750,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
