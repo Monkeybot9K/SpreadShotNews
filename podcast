@@ -2752,14 +2752,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2767,6 +2759,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
