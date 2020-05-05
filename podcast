@@ -21,6 +21,15 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 401: Me parece que acá hay una solución e involucra robots - Un status quo a la vez Edition</title>
+    <itunes:summary>  ¡Ni el envolvimiento de seres ciberneticos podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llego!     En este episodio:     Maxi continua jugando Granblue Fantasy Versus, Nico termina el DLC de Control (The Foundation) y ambos comentan lo que les viene pareciendo XCOM: Chimera Squad.    En el Rapid-Fire, Nintendo cierra los eShop de Wii U y 3DS en varios paises y potencialmente no estaria presente en la inexistente E3, Microsoft anuncia un anuncio sobre Series X, Mr. Doritos se carga la industria al hombro nuevamente, la GDC Summer va a ser (obviamente) digial, Square Enix se acuerda que lanzo Final Fantasy XII en PC y PS4, Epic implementa doble factor de autenticacion en el Epic Games Store y se filtra practicamente toda la historia de The Last of Us Part 2 lo que fuerza a Sony a ponerle fecha de salida.    Para finalizar, en el Special Move, Nico nos recomienda el documental de 2019,  APOLLO 11 , mientras que Maxi nos recomienda un podcast de musica llamado  Super Marcato Bros. Podcast  y la  sesion virtual de Seatbelts haciendo TANK! .    Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:
+ spreadshotnews.com/preguntas .  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spread-shot-news-401/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spread-shot-news-401/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>9193.55</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast - Guest Pass 02: Jeremias Curci</title>
     <itunes:summary>  Bienvenidos al segundo Guest Pass de SpreadShotNews Podcast, en esta ocasion con el señor Jeremias Curci de invitado.    Nico charla con Jeremias brevemente sobre lo que cada uno estuvo jugando, para despues adentrarse en la tematica central: como abordar el gaming con los mas chicos.    Muchas gracias a Jeremias por prestar su tiempo para charlar con nosotros.    Pueden seguir a Jeremias en twitter en  @jerecurci .    Recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:
  spreadshotnews.com/preguntas .  </itunes:summary>
@@ -2743,14 +2752,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2758,6 +2759,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
