@@ -21,7 +21,15 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
-    <title>SpreadShotNews Podcast 401: Me parece que acá hay una solución e involucra robots - Un status quo a la vez Edition</title>
+    <title>Spoilercast 12: Debriefing - XCOM: Chimera Squad</title>
+    <itunes:summary>  ¡Bienvenidos a un nuevo Spoilercast de SpreadShotNews!   Despues de lo que aparentó ser una eternidad, Nico y Maxi finalmente juegan algo a la par y decidieron que XCOM: Chimera Squad merecia el tratamiento de Debriefing.  Para los que no saben, los spoilercast son, como su nombre lo indica, un lugar donde discutimos en profundidad todo un juego y por supuesto hablamos con todos los spoilers habidos y por haber, quedan avisados.  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spread-shot-news-401/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/Spoilercast12/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 07 May 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>5895.45</itunes:duration>
+  </item><item>
+	<title>SpreadShotNews Podcast 401: Me parece que acá hay una solución e involucra robots - Un status quo a la vez Edition</title>
     <itunes:summary>  ¡Ni el envolvimiento de seres ciberneticos podra salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llego!     En este episodio:     Maxi continua jugando Granblue Fantasy Versus, Nico termina el DLC de Control (The Foundation) y ambos comentan lo que les viene pareciendo XCOM: Chimera Squad.    En el Rapid-Fire, Nintendo cierra los eShop de Wii U y 3DS en varios paises y potencialmente no estaria presente en la inexistente E3, Microsoft anuncia un anuncio sobre Series X, Mr. Doritos se carga la industria al hombro nuevamente, la GDC Summer va a ser (obviamente) digial, Square Enix se acuerda que lanzo Final Fantasy XII en PC y PS4, Epic implementa doble factor de autenticacion en el Epic Games Store y se filtra practicamente toda la historia de The Last of Us Part 2 lo que fuerza a Sony a ponerle fecha de salida.    Para finalizar, en el Special Move, Nico nos recomienda el documental de 2019,  APOLLO 11 , mientras que Maxi nos recomienda un podcast de musica llamado  Super Marcato Bros. Podcast  y la  sesion virtual de Seatbelts haciendo TANK! .    Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:
  spreadshotnews.com/preguntas .  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
