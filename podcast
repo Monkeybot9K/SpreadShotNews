@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 405: El Last of Us es Uncharted sin escalar - Contame todo lo que no me interesa saber de ese juego Edition</title>
+    <itunes:summary> ¡Ni las comparaciones mas obvias podran salvarlos!¡Porque es martes y SpreadShotNews Podcast ya llego!   En este episodio:   Despues de una intro muchisimo mas larga que lo normal donde se habla de todo un poco y muchisimo de soundtracks de videojuegos, Maxi y Nico nos cuentan sobre el final de Astroneer y sus experiencias, Nico despues procede a contarnos sobre Gravity Rush Remastered y Gravity Rush 2, mientras Maxi procede a circular los caminos virtuales en Euro Truck Simulator 2.  En el Rapid-Fire repasamos las noticias sobre Blizzard cancelando Blizzcon (si, recien ahora), un columnista de Famitsu prometiendo “revolucion”, Sony anuncia finalmente el reveal de la PS5 y ademas informa a sus developers sobre compatibilidad a futuro, The Last of Us Part 2 y la Wholesome Direct.  Para finalizar, en el Special Move, Nico nos recomienda  Space Force, de Netflix , y Maxi nos recomienda el canal de  youtube de Richie Castellano .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spread-shot-news-405/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spread-shot-news-405/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>8729.96</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 404: Podcast not found</title>
     <itunes:summary> ¡Ni los errores podran detenernos!¡Porque es martes y SpreadShotNews Podcast ya llegó!   En este episodio:   Maxi termina el The Wonderful 101 Remastered y nos da sus impresiones finales y luego junto a Nico comentan mas Astroneer y su accidenada sesion.  En el Rapid-Fire tenemos noticias sobre el posible reveal de PS5, un nuevo evento en la ausencia de la E3, Tencent sigue invirtiendo en la industria de videojuegos, DOOM Eternal hace un giro de 180 grados con respecto a Denuvo, y EA sigue haciendo cosas fuera de personaje con command &amp; conquer.  Para la Main Quest, contestamos varias preguntas que nos dejaron muy amablemente nuestros oyentes en spreadshotnews.com/preguntas. Muchas gracias a Gaston y Guillermo.  Para finalizar, en el Special Move, Maxi nos recomienda la segunda temporada de COSMOS y Nico nos recuerda que esta disponible  buena parte de las bandas sonoras de Castlevania en Spotify .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2793,14 +2801,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2808,6 +2808,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
