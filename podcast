@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 410: Si voy a enterarme que pasa con los heads de una empresa, que sea Nintendo - La alizacion de los licores Edition</title>
+    <itunes:summary> ¡Ni el chusmerio corporativo podra detenernos!¡Porque es Lunes y SpreadShotNews Podcast ya llegó!   En este episodio:   Nico finalmente pasa la mision de Command &amp; Conquer Remastered Collection que lo tenia a mal traer, Maxi termina Xenoblade Chronicles: Definitive Edition y arranca el DLC de Future Connected y ambos vuelven a Astroneer despues del “automation update”.  En el Rapid-Fire, Microsoft y PlayStation le dicen no a Facebook, Nintendo le dice no a los retailers Europeos, EVO es cancelada (y la industria completa esta revolucionada por graves acusasiones), Apple quiere retener publico en Apple Arcade y una nueva edicion de  #ESPECULANDIA .  Para el Hot Coffee, tenemos novedades sobre las loot boxes y su litigacion, y la posibilidad de que los juegos AAA next-gen salgan 10 dolares mas.  Para finalizar, en el Special Move, Nico nos recomienda  los videos  y  el podcast  de Slightly Civil War de the escapist. Maxi por su parte nos recomienda un video del canal  AI and Games sobre la AI de los juegos de stealth .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spread-shot-news-410/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spread-shot-news-410/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Sun, 05 Jul 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>7896.55</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 409: Es más cyberpunk si le pones nombres locos</title>
     <itunes:summary> ¡Ni los nombres poco comunes podran detenernos!¡Porque es LUNES y SpreadShotNews ya esta aqui!   En este episodio:   Asi es, no es un espejismo. Decidimos mudar la salida del podcast a los Lunes para facilitarnos el proceso y evitar el dia de mantenimiento de archive.  En el Now Loading, Nico continua con un poco mas de Command &amp; Conquer Remastered Collection, y Maxi llega hasta casi el final de Xenoblade Chronicles: Definitive Edition y prueba la demo pre-alpha de Dual Gear.  En el Rapid-Fire repasamos algunas noticias de la semana con el FDA aprobando juegos terapeuticos, Crash Bandicoot 4 es real porque lo dice Activision, Microsoft dice que Mixer ya no es real, Facebook compra Ready at Dawn, Sony ofrece recompensa por bugs y Super Smash Bros. Melee recibe rollback netcode.  Para la Main Quest, repasamos el New Game+ Expo y el episodio 1 de Night City Wire de Cyberpunk 2077.  Para finalizar, en el Special Move, Nico nos recomienda el libro  Code: The Hidden Language of Computer Hardware and Software de Charles Petzold  (Microsoft  Press), y Maxi nos recomienda una playlist del canal LovelyVGM llamada  Retro Remix Revue .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2833,14 +2841,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2848,6 +2848,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
