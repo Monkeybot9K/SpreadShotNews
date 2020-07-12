@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 411: El FIFA es super super importante y vende un montón, pero no es el Zelda</title>
+    <itunes:summary> ¡Ni las comparaciones mas eclecticas podran savarlos!¡Porque es lunes y SpreadShotNews Podcast esta de vuelta!   En este episodio:   Maxi nos da sus pensamientos finales sobre Future Connected, el epilogo de Xenoblade Chronicles: Definitive Edition, ademas junto con Nico continuan explorando las nuevas adiciones de Astroneer.  En un Rapid-Fire cargado de noticias de la industria tenemos a Microsoft como potencial interesado en comprar WB Interactive, Tencent le podria haber primereado Warframe a Sony pero Sony se la devuelve en forma de acciones de Epic Games, ademas Sony le diría que “si” a la emulación, los ejecutivos de EA y Activision cobran cantidades pornograficas de plata (no shit) y para no perder la costumbre, se filtra toda la conferencia de Ubisoft dias antes de que suceda.  Para el Hot Coffe separamos la noticia de Microsoft  que estaria recomendando enfaticamente no cobrar actualizaciones de versiones de juegos de Xbox One a Series X a publishers y developers.  Por ultimo, en el Special Move, Nico nos recomienda una  charla de Jon Ingold llamada Sparkling Dialogue: A Masterclass . Maxi nos recomienda  The Brilliant Soundtrack of Metal Gear Rising Revengance .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spread-shot-news-411/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spread-shot-news-411/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Sun, 12 Jul 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>6030.04</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 410: Si voy a enterarme que pasa con los heads de una empresa, que sea Nintendo - La alizacion de los licores Edition</title>
     <itunes:summary> ¡Ni el chusmerio corporativo podra detenernos!¡Porque es Lunes y SpreadShotNews Podcast ya llegó!   En este episodio:   Nico finalmente pasa la mision de Command &amp; Conquer Remastered Collection que lo tenia a mal traer, Maxi termina Xenoblade Chronicles: Definitive Edition y arranca el DLC de Future Connected y ambos vuelven a Astroneer despues del “automation update”.  En el Rapid-Fire, Microsoft y PlayStation le dicen no a Facebook, Nintendo le dice no a los retailers Europeos, EVO es cancelada (y la industria completa esta revolucionada por graves acusasiones), Apple quiere retener publico en Apple Arcade y una nueva edicion de  #ESPECULANDIA .  Para el Hot Coffee, tenemos novedades sobre las loot boxes y su litigacion, y la posibilidad de que los juegos AAA next-gen salgan 10 dolares mas.  Para finalizar, en el Special Move, Nico nos recomienda  los videos  y  el podcast  de Slightly Civil War de the escapist. Maxi por su parte nos recomienda un video del canal  AI and Games sobre la AI de los juegos de stealth .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2841,14 +2849,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2856,6 +2856,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
