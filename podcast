@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 414: Agarra un cacho del anillo y tirá 100 Halos ahi - Red de información y magia Edition</title>
+    <itunes:summary> ¡Ni los cilindros huecos segmentados podran detenernos!¡Porque es lunes y SpreadShotNews Podcast ya llegó!   En este episodio:   Maxi nos cuenta sus impresiones finales sobre Ghost of Tsushima, Nico continua con Death Stranding y ademas nos dan una breve actualizacion sobre Astroneer.  En el Rapid-Fire, Valve testea cosas en steam, la GDC Summer se prepara para correr, Flight Simulator llega a steam, como la ausencia de la E3 no modifico nada, Private Division sale de compras y Halo Infinite y su flamante multiplayer, ademas de un  #BREAKING NEWS .  Para la Main Quest, charlamos sobre un articulo de Gamasutra que habla sobre la rentabilidad de los DLC pagos y varias tangentes.  En el Special Move, auspiciado extraoficialmente por Digital Foundry, Nico nos recomienda el video sobre  la calidad visual de Halo Infinite  y Maxi el  preview de Flight Simulator 2020 .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spread-shot-news-414/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spread-shot-news-414/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Sun, 02 Aug 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>8660.89</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 413: Un montón de cajas con ruedas</title>
     <itunes:summary> ¡Ni los diseños mas experimentales podran detenernos!¡Porque es Lunes y SpreadShotNews Podcast ya esta aqui!   En este episodio:   Nico continua jugando mas Death Stranding y Maxi avanza en Ghost of Tsushima.  En el Rapid Fire, Rocket League se va de steam, los sindicatos vs Ubisoft, Nintendo y una Direct sorpresa, La vuelta de Suikoden pero no y Nintendo tiene problemas de seguridad informatica.  En la Main Quest, Nico y Maxi comentan sobre el Xbox Showcase mas reciente y repasan todos los anuncios.  Para finalizar, en el Special Move, Nico recomienda el  canal Lazy Devs en youtube , mientras Maxi recuerda que  el libro de Iwata Asks estará a la venta a principio de 2021 (en ingles) .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2865,14 +2873,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2880,6 +2880,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
