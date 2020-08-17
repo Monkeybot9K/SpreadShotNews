@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 416: Tuvimos que detener a Superman, salió mal - Situación geográfica Edition</title>
+    <itunes:summary> ¡Ni el fallido intento de frenar a un superheroe podra salvarlos!¡Porque es Lunes y SpreadShotNews Podcast ya llegó!   En este episodio:   Contestamos finalmente los mails de Pyro en una intro super XL.  En el Now Loading Maxi continua a puro Warframe, mientras Nico juega lo suficiente al Death Stranding como para hacerle arrancar el Ghost of Tsushima.  En el Rapid-Fire, la situacion de CAPCOM despues de la era Ono, AT&amp;T no niega ni garantiza que los estudios esten a la venta, SEGA se anima comprometerse con mas ports de juegos de Atlus, Microsoft anuncia una no noticia y una mala noticia, Forza Horizon 3 se dirige hacia el horizonte, THQ y su papa salen de shopping y Remedy anuncia una Ultimate Edition de Control acompañada de ciertas particularidades.  Para el Hot Coffee, charlamos sobre la ultima pelea de megacorporaciones: Epic vs Apple y Google y como seguramente el resultado sea que perdemos todos.  Para finalizar, en el Special Move, Nico nos recomienda la serie de Netflix Transformers: War for Cybertron - SIEGE y Maxi nos trae un monton de  arte conceptual de Ghost of Tsushima  y el video de Hoeg Law sobre el caso de  Epic vs Apple .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spread-shot-news-416/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spread-shot-news-416/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Sun, 16 Aug 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>11552.68</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 415: Los mundos bárbaros del espacio exterior - Friendly Neighborhood Superman Edition</title>
     <itunes:summary> ¡Ni las locaciones extraplanetarias podran detenernos!¡Porque ya es Lunes y SpreadShotNews Podcast ya esta aqui!   En este episodio:   Nico no juega Death Stranding porque se dedico a jugar con la gente de Cafe Fandango al Grim Dawn, y ademas nos comenta sobre Infinifactory, mientras Maxi tiene un addendum de Ghost of Tsushima y sorprende a todo el mundo sumergiendose en el mundo de Warframe.  En el Rapid-Fire, Microsoft rebrandea cosas, Apple bloquea aplicaciones, Microsoft rebrandea cosas round 2, Nintendo deja cada vez mas seco el catalogo de exclusivos de Wii U, Rocksteady va a intentar matar a Superman, Sony no deja que Spiderman se una a los Avengers (en otras plataformas) y la ultima PlayStation Direct.  Para el Hot Coffee charlamos sobre Fall Guys y como sus desarrolladores tuvieron actitudes reprochables para con las reviews del juego.  Para finalizar, en el Special Move, Nico nos recomienda el  episode 315 de retronauts  donde hablan sobre Samurai Shodown y ademas nos recomienda el prototipo con Voice Acting del Monkey Island 2. Maxi por su parte recomienda el mas reciente  especial de Louis C.K.   Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas . </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2881,14 +2889,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2896,6 +2896,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
