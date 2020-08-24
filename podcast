@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 417: Yo lo quiero bajar, ¿y usted?</title>
+    <itunes:summary> ¡Ni las proclamas para descargar contenido podran salvarlos!¡Porque es Lunes y SpreadShotNews Podcast ya esta aqui!   En este episodio:   Maxi se encuentra con su primer obstaculo real en Warframe, Nico sigue deteniendo la invasion en Ghost of Tsushima, pero todo es una excusa para esperar a que se instale el Microsoft Flight Simulator.  En este Rapid-Fire XL tenemos el capitulo 2 de Epic vs. Apple, Facebook termina de digerir por completo a Oculus, EA renombra cosas y las lleva a steam, Vampire The Masquerade Bloodlines 2 no solo se retrasa, sino que pierde gente, Valve vs el tiempo de instalacion de Flight Simulator en Steam y Nintendo y su ultimo indie world.  Para finalizar, en el Special Move, Nico nos recomienda The Morning Show en Netflix y Maxi el evento de speedrunning SGDQ (especialmente el speedrun de Half-Life: Alyx)  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spread-shot-news-417/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spread-shot-news-417/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Sun, 23 Aug 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>9297.15</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 416: Tuvimos que detener a Superman, salió mal - Situación geográfica Edition</title>
     <itunes:summary> ¡Ni el fallido intento de frenar a un superheroe podra salvarlos!¡Porque es Lunes y SpreadShotNews Podcast ya llegó!   En este episodio:   Contestamos finalmente los mails de Pyro en una intro super XL.  En el Now Loading Maxi continua a puro Warframe, mientras Nico juega lo suficiente al Death Stranding como para hacerle arrancar el Ghost of Tsushima.  En el Rapid-Fire, la situacion de CAPCOM despues de la era Ono, AT&amp;T no niega ni garantiza que los estudios esten a la venta, SEGA se anima comprometerse con mas ports de juegos de Atlus, Microsoft anuncia una no noticia y una mala noticia, Forza Horizon 3 se dirige hacia el horizonte, THQ y su papa salen de shopping y Remedy anuncia una Ultimate Edition de Control acompañada de ciertas particularidades.  Para el Hot Coffee, charlamos sobre la ultima pelea de megacorporaciones: Epic vs Apple y Google y como seguramente el resultado sea que perdemos todos.  Para finalizar, en el Special Move, Nico nos recomienda la serie de Netflix Transformers: War for Cybertron - SIEGE y Maxi nos trae un monton de  arte conceptual de Ghost of Tsushima  y el video de Hoeg Law sobre el caso de  Epic vs Apple .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2889,14 +2897,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
-    <itunes:summary>Episodio 71</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6799.4</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
     <itunes:summary>Episodio 70</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2904,6 +2904,14 @@
     <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6050.1</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
+    <itunes:summary>Episodio 71</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6799.4</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
