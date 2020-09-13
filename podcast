@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 420: BLAZE IT - ¿Entienden? Porque es de droga Edition</title>
+    <itunes:summary> ¡Ni la apologia del delito podra detenernos!¡Porque es SpreadShotNews Podcast y Lunes ya llegó!   En este episodio:   Despues de los correspondientes chistes de sendos estupefacientes de todos los tipos y variedades siendo o no consumidos por los integrantes del podcast, Nico nos cuenta que estuvo jugando al Among Us, terminó el Ghost of Tsushima, le pinto arrancar el Katamari Damacy: Reroll y ademas tambien empezo a jugar el DLC de Control. Maxi por su parte sigue con sus aventuras celestiales en Microsoft Flight Simulator y continua sus aventuras por Control.  En el Rapid Fire, Nintendo vuelve a girar la rueda de los rumores y la empresa que apañó por años a extorsionadores, violadores y abusadores (previamente conocida como Ubisoft) realizo un nuevo Ubisoft Forward previo video de su CEO quirurjicamente publicado un par de horas antes del evento y en forma separada.  Para el Hot Coffee repasamos la cronologia que llevo a que hoy tengamos los detalles de la Xbox Series X y Series S, ademas de sus fechas de salida y correspondiente precio y lo que implica para Sony y el resto de la industria.  Para finalizar, en el Special Move, Nico nos recomienda el video reaccion de  Digital Foundry al anuncio de la Xbox Series S . Maxi por su parte recomienda a un streamer/youtuber enfocado en simuladores llamado  Squirrel  ( su canal de youtube )  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spread-shot-news-420/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spread-shot-news-420/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>9110.55</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 419: Me vi el unboxing, que es abrir la caja y mirar - Carreteras invisibles por el cielo Edition</title>
     <itunes:summary> ¡Ni el desempaquetado de un articulo podra detenernos!¡Porque es Lunes y SpreadShotNews Podcast ya llego!   En este episodio:   Maxi finalmente arranca el Control y continua sus aventuras volando por el mundo en Flight Simulator 2020, mientras Nico continua Ghost of Tsushima, instala su nuevo SSD para poder seguir jugando Flight Simulator 2020 y recuenta todas las veces que jugo Rocket League incluyendo la mas reciente.  En el Rapid-Fire, Microsoft aumenta gamepass ultimate, Vlambeer dice adios, Nintendo permite cancelar preorders (a la Nintendo), Ubisoft dice cosas que la PS5 no hace, Sony va en busca de la audiencia de PC, un nuevo kickstarter millonario que esperamos no termine como la mayoria e India se pone super picante con China.  Para el Hot Coffee, Repasamos los anuncios de Nvidia y la direct sorpresa de Nintendo.  Para finalizar, en el Special Move, Nico nos recomienda Bill &amp; Ted Face the Music y  el canal de youtube de Luke Stephens . Maxi por su parte nos recomienda varias herramientas para profundizar la experiencia:  Airnavs, VFR charts y aeropuertos ,  trafico aereo en tiempo real y uso de rutas ,  FMS (Fleet Management System) Data y Charts .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2913,14 +2921,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <itunes:summary>Episodio 70</itunes:summary>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <itunes:summary>Episodio 71</itunes:summary>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2928,6 +2928,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <itunes:summary>Episodio 70</itunes:summary>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <itunes:summary>Episodio 69</itunes:summary>
