@@ -21,6 +21,14 @@
           <itunes:category text="Video Games" />
         </itunes:category>
         <itunes:explicit>yes</itunes:explicit><item>
+    <title>SpreadShotNews Podcast 423: Si los superheroes son las consolas, Dr. Manhattan es la PC</title>
+    <description> ¡Ni las metaforas mas inverosimiles podran detenernos!¡Porque es Lunes y SpreadShotNews Podcast ya llegó!   En este episodio:   Mas desventuras en el Flight Simulator y el final de Alan Wake es lo que trae Maxi, mientras Nico le entra sin asco al Hades.  Para el Rapid-Fire, CDProjekt se desdice sobre su posicion contra el crunch, EA Play llega a next-gen justo a tiempo, GOG Galaxy permite comprar afuera (de GOG) y Nintendo sorprende a todos (y a nadie) con el proximo personaje para Smash Bros.  Como fue prometido la semana pasada, en la Main Quest tenemos un resumen del Tokyo Game Show 2020 bastante resumido porque mas de la mitad fueron anuncios para japon exclusivamente.  Por ultimo en el Special Move (que casi no pasa), unas recomendaciones muy poco especificas: Nico recomienda seguir el hashtag #inktober, mientras Maxi recomienda la  el subsitio del flight simulator de nexusmods .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </description>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/spread-shot-news-423/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/spread-shot-news-423/format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Sun, 04 Oct 2020 00:00:00 GMT</pubDate>
+    <itunes:duration>9208.85</itunes:duration>
+  </item><item>
     <title>SpreadShotNews Podcast 422: Uy mirá, se me cayó un montón de plata</title>
     <description> ¡Ni las perdidas involutarias de dinero podrán detenernos!¡Porque es lunes y SpreadShotNews ya esta aqui!   En este episodio:   Nico continua jugando Hades y ademas vuelve al Flight Simulator. Maxi cumple su profecia y revisita el Alan Wake.  En el Rapid-Fire, de las cenizas de un estudio nace otro, Mike Morhaime funda su propio estudio (otra vez), Microsoft revela el precio de su tarjeta de expansion de espacio, Amazon se une a la carrera del streaming de videojuegos y Metal Gear llega a gog.  Para la Main Quest hablamos largo y tendido sobre la adquisicion de Zenimax por parte de Microsoft y todo lo que esto potencialmente significa para la industria.  Para finalizar, en el Special Move, Nico nos recomienda el podcast  “let’s make a music” de Brian David Gilbert .  Por ultimo, recuerden que ahora nos pueden escribir preguntas directamente a traves de google forms en el siguiente link:  spreadshotnews.com/preguntas .  </description>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2938,14 +2946,6 @@
     <pubDate>Thu, 16 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>5412.59</itunes:duration>
   </item><item>
-    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
-    <description>Episodio 70</description>
-    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
-    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
-    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
-    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
-    <itunes:duration>6050.1</itunes:duration>
-  </item><item>
     <title>SpreadShotNews Podcast 71: Creo que había uno en tu vieja (gracias por tanta magia Nico)</title>
     <description>Episodio 71</description>
     <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
@@ -2953,6 +2953,14 @@
     <guid>https://archive.org/download/SpreadShotNews71CreoQueHabiaUnoEnTuVieja/format=VBR+MP3&amp;ignore=x.mp3</guid>
     <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
     <itunes:duration>6799.4</itunes:duration>
+  </item><item>
+    <title>SpreadShotNews Podcast 70: Flamberstoins, que es Facebook en Alemán.</title>
+    <description>Episodio 70</description>
+    <itunes:image href="(http://spreadshotnews.com/assets/SSN_1400.jpg)"/>
+    <enclosure url="https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg"/>
+    <guid>https://archive.org/download/SpreadShotNews70FlamberstoinsQueEsFacebookEnAleman./format=VBR+MP3&amp;ignore=x.mp3</guid>
+    <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
+    <itunes:duration>6050.1</itunes:duration>
   </item><item>
     <title>SpreadShotNews Podcast 69: Es un juego feliz que te hace feliz Y es Mario</title>
     <description>Episodio 69</description>
