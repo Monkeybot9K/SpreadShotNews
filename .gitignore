@@ -1,0 +1,4 @@
+# mac specific files
+*.DS_store
+# feed generator files
+feed_generator/**
